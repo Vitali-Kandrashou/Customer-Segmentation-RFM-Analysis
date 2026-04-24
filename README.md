@@ -6,7 +6,7 @@ Customer segmentation project using SQL and Power BI to analyze user loyalty and
 This project focuses on segmenting a customer base of **2,000 clients** to optimize marketing strategies. By applying the **RFM Model**, I identified key customer groups based on their purchasing behavior, analyzing a total revenue of **$107M**.
 
 ## 🖼 Dashboard Preview
-![RFM Dashboard](вставь_сюда_ссылку_на_свой_скриншот)
+![RFM Dashboard](dashboard_preview.png)
 
 ## 🛠 Tech Stack
 * **SQL:** Data cleaning, transaction aggregation, and scoring using `NTILE` functions.
