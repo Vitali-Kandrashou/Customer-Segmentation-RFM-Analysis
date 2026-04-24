@@ -1,0 +1,1959 @@
+customer_id,recency,frequency,monetary,r_score,f_score,m_score,customer_segment
+3070,4,3,203365.12,5,5,5,VIP
+2121,1,2,113827.88,5,5,5,VIP
+6475,3,2,110331.02,5,5,5,VIP
+825,1,3,448021.38,5,5,5,VIP
+5078,8,2,158456.63,5,5,5,VIP
+6920,5,2,123141.86,5,5,5,VIP
+3634,8,2,188535.59,5,5,5,VIP
+3823,7,2,197660.24,5,5,5,VIP
+9203,2,2,115292.83,5,5,5,VIP
+2203,8,3,135148.67,5,5,5,VIP
+2629,8,3,198819.59,5,5,5,VIP
+4881,2,2,94074.68,5,5,5,VIP
+2492,7,2,160427.22,5,5,5,VIP
+2384,3,2,210248.87,5,5,5,VIP
+8485,7,3,285756.05,5,5,5,VIP
+818,2,2,160116.87,5,5,5,VIP
+9849,0,2,253516.03,5,5,5,VIP
+134,0,3,117855.14,5,5,5,VIP
+9016,0,2,148567.82,5,5,5,VIP
+5751,2,2,191313.9,5,5,5,VIP
+5323,2,2,207403.94,5,5,5,VIP
+4541,7,2,98836.88,5,5,5,VIP
+266,6,3,169502.86,5,5,5,VIP
+4263,3,2,137001.47,5,5,5,VIP
+5626,6,2,131519.75,5,5,5,VIP
+1151,6,2,86655.28,5,5,5,VIP
+7032,2,3,164099.54,5,5,5,VIP
+5666,6,2,120016.69,5,5,5,VIP
+90,7,2,153556.71,5,5,5,VIP
+1077,0,2,119162.18,5,5,5,VIP
+642,5,4,195859.04,5,5,5,VIP
+2927,1,2,210450.86,5,5,5,VIP
+2829,4,2,227682.79,5,5,5,VIP
+767,2,3,169474.32,5,5,5,VIP
+797,0,2,131467.59,5,5,5,VIP
+2978,5,2,123492.3,5,5,5,VIP
+4207,7,3,104694.47,5,5,5,VIP
+3009,4,2,145618.73,5,5,5,VIP
+6100,1,3,107775.72,5,5,5,VIP
+1055,2,2,90106.83,5,5,5,VIP
+3439,0,2,112919.32,5,5,5,VIP
+2671,1,3,206823.5,5,5,5,VIP
+1146,6,2,81133.75,5,5,4,Loyal
+8915,0,2,85111.94,5,5,4,Loyal
+279,7,2,86377.46,5,5,4,Loyal
+8505,6,3,85411.04,5,5,4,Loyal
+1468,8,2,60049.74,5,5,4,Loyal
+2448,8,2,65005.55,5,5,4,Loyal
+1730,2,3,76450.64,5,5,4,Loyal
+1425,0,2,68509.95,5,5,4,Loyal
+945,2,3,77423.82,5,5,4,Loyal
+4017,2,3,75418.94,5,5,4,Loyal
+3516,4,2,73704.88,5,5,4,Loyal
+1254,3,2,68114.93,5,5,4,Loyal
+2787,2,2,82414.59,5,5,4,Loyal
+6173,4,2,78577.59,5,5,4,Loyal
+7781,7,2,74222.79,5,5,4,Loyal
+6877,0,2,84234.84,5,5,4,Loyal
+3705,6,2,59317.98,5,5,4,Loyal
+5559,7,2,86520.18,5,5,4,Loyal
+969,0,2,61422.93,5,5,4,Loyal
+6394,6,2,69901.51,5,5,4,Loyal
+6991,6,2,76182.1,5,5,4,Loyal
+6579,8,2,72673.74,5,5,4,Loyal
+6620,1,2,53082.13,5,5,4,Loyal
+7828,8,2,77715.7,5,5,4,Loyal
+4051,3,2,61799.54,5,5,4,Loyal
+665,1,2,84270.59,5,5,4,Loyal
+8114,2,4,65195.54,5,5,4,Loyal
+1493,2,2,48392.52,5,5,3,Loyal
+9811,1,2,38695.47,5,5,3,Loyal
+6320,6,2,45774.0,5,5,3,Loyal
+2207,1,2,51096.74,5,5,3,Loyal
+3207,7,2,48871.41,5,5,3,Loyal
+2603,0,2,44875.57,5,5,3,Loyal
+9827,1,2,52739.09,5,5,3,Loyal
+1280,6,3,50542.24,5,5,3,Loyal
+4095,7,2,50256.3,5,5,3,Loyal
+3122,6,2,46269.6,5,5,3,Loyal
+6695,5,2,46797.83,5,5,3,Loyal
+3320,8,2,43401.58,5,5,3,Loyal
+8436,4,2,48213.94,5,5,3,Loyal
+6354,4,1,180320.31,5,4,5,High value
+5136,5,1,198212.47,5,4,5,High value
+3687,5,1,165113.27,5,4,5,High value
+9046,4,1,71310.04,5,4,4,Loyal
+115,4,1,69675.25,5,4,4,Loyal
+1696,4,1,69531.98,5,4,4,Loyal
+5901,7,1,72903.51,5,4,4,Loyal
+2359,8,1,71104.09,5,4,4,Loyal
+4162,7,1,64063.08,5,4,4,Loyal
+8806,3,1,60453.35,5,4,4,Loyal
+2427,3,1,62412.29,5,4,4,Loyal
+3883,3,1,55272.2,5,4,4,Loyal
+1258,6,1,56890.58,5,4,4,Loyal
+7236,0,1,56978.31,5,4,4,Loyal
+4432,0,1,69479.03,5,4,4,Loyal
+768,0,1,66145.06,5,4,4,Loyal
+979,0,1,67061.92,5,4,4,Loyal
+8223,1,1,69816.17,5,4,4,Loyal
+1045,1,1,78134.58,5,4,4,Loyal
+7001,6,1,77375.04,5,4,4,Loyal
+8166,6,1,77272.22,5,4,4,Loyal
+7983,5,1,55805.22,5,4,4,Loyal
+1639,0,1,57226.04,5,4,4,Loyal
+6321,1,1,62465.95,5,4,4,Loyal
+3751,1,1,62018.51,5,4,4,Loyal
+792,0,1,59967.05,5,4,4,Loyal
+4174,8,1,56342.07,5,4,4,Loyal
+8666,7,1,66371.01,5,4,4,Loyal
+4602,8,1,58816.17,5,4,4,Loyal
+7608,2,1,66504.84,5,4,4,Loyal
+8468,5,1,57101.52,5,4,4,Loyal
+4808,0,1,65618.0,5,4,4,Loyal
+9073,7,1,66763.33,5,4,4,Loyal
+135,0,1,74409.77,5,4,4,Loyal
+5679,7,1,64519.25,5,4,4,Loyal
+1267,2,1,54484.78,5,4,4,Loyal
+5817,6,1,57128.13,5,4,4,Loyal
+2623,4,1,77276.0,5,4,4,Loyal
+6469,0,1,70727.12,5,4,4,Loyal
+9337,2,1,60142.98,5,4,4,Loyal
+5864,2,1,60967.55,5,4,4,Loyal
+8067,2,1,62399.44,5,4,4,Loyal
+2754,5,2,37336.89,5,4,3,Loyal
+5073,7,2,36835.41,5,4,3,Loyal
+6825,0,2,32551.3,5,4,3,Loyal
+4237,0,2,21730.88,5,4,2,Loyal
+1683,0,2,15283.24,5,4,2,Loyal
+8407,7,2,22733.72,5,4,2,Loyal
+6087,3,2,18722.29,5,4,2,Loyal
+4847,8,2,27781.15,5,4,2,Loyal
+9216,0,1,3931.75,5,4,1,Loyal
+3732,5,1,4762.94,5,4,1,Loyal
+3376,8,1,6162.79,5,4,1,Loyal
+5665,3,1,5909.59,5,4,1,Loyal
+9545,0,1,3816.32,5,4,1,Loyal
+5826,6,1,3975.23,5,4,1,Loyal
+8479,5,1,5413.77,5,4,1,Loyal
+125,5,1,4502.56,5,4,1,Loyal
+7531,4,1,3624.88,5,4,1,Loyal
+6645,5,1,5394.58,5,4,1,Loyal
+6286,5,2,9583.9,5,4,1,Loyal
+6572,0,2,12860.04,5,4,1,Loyal
+6351,0,1,6359.9,5,4,1,Loyal
+4496,7,1,6348.59,5,4,1,Loyal
+8107,7,1,5803.42,5,4,1,Loyal
+2068,0,1,6341.88,5,4,1,Loyal
+323,3,1,4969.04,5,4,1,Loyal
+7899,2,1,6311.57,5,4,1,Loyal
+1518,6,1,4159.25,5,4,1,Loyal
+7295,2,1,211748.63,5,3,5,High value
+7065,3,1,50924.52,5,3,3,Potential loyal
+7815,8,1,48212.8,5,3,3,Potential loyal
+5785,8,1,48826.21,5,3,3,Potential loyal
+1510,0,1,39141.51,5,3,3,Potential loyal
+8337,8,1,50665.32,5,3,3,Potential loyal
+3692,0,1,35803.9,5,3,3,Potential loyal
+8036,0,1,41903.48,5,3,3,Potential loyal
+826,0,1,44826.46,5,3,3,Potential loyal
+5880,0,1,47851.09,5,3,3,Potential loyal
+4911,0,1,32778.43,5,3,3,Potential loyal
+8923,0,1,30397.48,5,3,3,Potential loyal
+5911,0,1,37606.84,5,3,3,Potential loyal
+8400,0,1,38672.57,5,3,3,Potential loyal
+2029,1,1,34214.85,5,3,3,Potential loyal
+6742,1,1,31021.45,5,3,3,Potential loyal
+1109,1,1,41813.48,5,3,3,Potential loyal
+2812,1,1,44610.48,5,3,3,Potential loyal
+3686,1,1,46332.1,5,3,3,Potential loyal
+7774,1,1,48213.48,5,3,3,Potential loyal
+1839,1,1,31803.06,5,3,3,Potential loyal
+6180,1,1,49260.08,5,3,3,Potential loyal
+9262,2,1,37538.41,5,3,3,Potential loyal
+226,2,1,32248.02,5,3,3,Potential loyal
+5614,2,1,47477.79,5,3,3,Potential loyal
+3496,2,1,50407.67,5,3,3,Potential loyal
+3619,2,1,30177.77,5,3,3,Potential loyal
+8690,2,1,30011.75,5,3,3,Potential loyal
+3478,3,1,36051.61,5,3,3,Potential loyal
+6939,3,1,46601.9,5,3,3,Potential loyal
+4336,3,1,38982.09,5,3,3,Potential loyal
+2949,3,1,33621.04,5,3,3,Potential loyal
+7434,4,1,39984.24,5,3,3,Potential loyal
+5816,4,1,40843.26,5,3,3,Potential loyal
+8271,4,1,40926.21,5,3,3,Potential loyal
+6085,4,1,44229.94,5,3,3,Potential loyal
+5480,4,1,32353.4,5,3,3,Potential loyal
+4645,4,1,31804.82,5,3,3,Potential loyal
+3723,4,1,49399.29,5,3,3,Potential loyal
+6952,7,1,30358.31,5,3,3,Potential loyal
+8338,4,1,50958.18,5,3,3,Potential loyal
+2526,4,1,52100.32,5,3,3,Potential loyal
+390,7,1,42724.13,5,3,3,Potential loyal
+3460,4,1,52714.92,5,3,3,Potential loyal
+8365,7,1,42889.97,5,3,3,Potential loyal
+1203,7,1,29888.69,5,3,3,Potential loyal
+8849,7,1,42992.21,5,3,3,Potential loyal
+3699,5,1,40470.27,5,3,3,Potential loyal
+7319,5,1,31436.44,5,3,3,Potential loyal
+2578,5,1,33815.54,5,3,3,Potential loyal
+781,5,1,37643.2,5,3,3,Potential loyal
+200,5,1,35593.81,5,3,3,Potential loyal
+8864,5,1,30015.75,5,3,3,Potential loyal
+8266,6,1,33803.45,5,3,3,Potential loyal
+6445,6,1,29778.35,5,3,3,Potential loyal
+8785,6,1,46950.1,5,3,3,Potential loyal
+4473,2,1,2311.19,5,3,1,Potential loyal
+9388,3,1,2432.57,5,3,1,Potential loyal
+6722,4,1,2475.12,5,3,1,Potential loyal
+942,4,1,2526.56,5,3,1,Potential loyal
+103,3,1,2955.11,5,3,1,Potential loyal
+4795,1,1,2128.84,5,3,1,Potential loyal
+3938,7,1,2681.33,5,3,1,Potential loyal
+736,3,1,2795.26,5,3,1,Potential loyal
+9495,0,1,1652.22,5,3,1,Potential loyal
+4004,4,1,3033.12,5,3,1,Potential loyal
+5121,6,1,2252.07,5,3,1,Potential loyal
+2733,4,1,2154.55,5,3,1,Potential loyal
+6152,6,1,2661.53,5,3,1,Potential loyal
+6059,2,1,2713.49,5,3,1,Potential loyal
+3115,4,1,3310.42,5,3,1,Potential loyal
+6303,2,1,26341.57,5,2,2,Potential loyal
+6786,7,1,21223.94,5,2,2,Potential loyal
+1393,2,1,25807.41,5,2,2,Potential loyal
+671,4,1,24081.46,5,2,2,Potential loyal
+5003,4,1,23361.35,5,2,2,Potential loyal
+752,4,1,22913.06,5,2,2,Potential loyal
+8437,6,1,24607.03,5,2,2,Potential loyal
+1307,2,1,20525.78,5,2,2,Potential loyal
+7382,5,1,20888.99,5,2,2,Potential loyal
+5863,0,1,23695.06,5,2,2,Potential loyal
+8670,0,1,22771.34,5,2,2,Potential loyal
+1990,2,1,13946.44,5,2,2,Potential loyal
+756,7,1,24863.21,5,2,2,Potential loyal
+3904,5,1,19830.66,5,2,2,Potential loyal
+8584,2,1,16363.92,5,2,2,Potential loyal
+6336,2,1,27843.47,5,2,2,Potential loyal
+3765,2,1,28231.66,5,2,2,Potential loyal
+7347,8,1,17133.76,5,2,2,Potential loyal
+6714,6,1,23724.35,5,2,2,Potential loyal
+5959,8,1,17442.47,5,2,2,Potential loyal
+4359,8,1,20575.71,5,2,2,Potential loyal
+4142,1,1,19966.79,5,2,2,Potential loyal
+2652,1,1,21125.58,5,2,2,Potential loyal
+8863,5,1,21262.44,5,2,2,Potential loyal
+2988,1,1,21435.86,5,2,2,Potential loyal
+9508,0,1,26804.38,5,2,2,Potential loyal
+9251,5,1,29152.24,5,2,2,Potential loyal
+3579,6,1,14931.41,5,2,2,Potential loyal
+8057,1,1,14292.54,5,2,2,Potential loyal
+525,8,1,20709.53,5,2,2,Potential loyal
+4937,5,1,13963.15,5,2,2,Potential loyal
+7986,8,1,20778.44,5,2,2,Potential loyal
+7701,5,1,23709.1,5,2,2,Potential loyal
+5258,1,1,14723.96,5,2,2,Potential loyal
+2970,5,1,25301.47,5,2,2,Potential loyal
+3406,5,1,16084.3,5,2,2,Potential loyal
+1483,5,1,25292.4,5,2,2,Potential loyal
+5659,6,1,24842.3,5,2,2,Potential loyal
+1544,0,1,25333.26,5,2,2,Potential loyal
+859,8,1,21651.45,5,2,2,Potential loyal
+2056,0,1,26076.33,5,2,2,Potential loyal
+7480,6,1,17448.93,5,2,2,Potential loyal
+12,6,1,18569.66,5,2,2,Potential loyal
+3323,5,1,14733.01,5,2,2,Potential loyal
+8102,8,1,21930.72,5,2,2,Potential loyal
+3739,6,1,19043.09,5,2,2,Potential loyal
+7623,6,1,15333.47,5,2,2,Potential loyal
+8218,7,1,17590.8,5,2,2,Potential loyal
+3607,3,1,23294.32,5,2,2,Potential loyal
+9355,3,1,17347.25,5,2,2,Potential loyal
+5964,3,1,27820.74,5,2,2,Potential loyal
+5104,4,1,22010.19,5,2,2,Potential loyal
+7452,3,1,28559.17,5,2,2,Potential loyal
+5581,6,1,23354.63,5,2,2,Potential loyal
+2833,3,1,22910.4,5,2,2,Potential loyal
+2639,0,1,25292.92,5,2,2,Potential loyal
+3548,0,1,21357.7,5,2,2,Potential loyal
+3201,6,1,23837.49,5,2,2,Potential loyal
+3109,6,1,29145.05,5,2,2,Potential loyal
+4575,3,1,20648.35,5,2,2,Potential loyal
+4499,0,1,17907.42,5,2,2,Potential loyal
+9544,3,1,20627.13,5,2,2,Potential loyal
+8430,0,1,20693.92,5,2,2,Potential loyal
+5633,0,1,18995.72,5,2,2,Potential loyal
+3518,3,1,25906.77,5,2,2,Potential loyal
+9772,0,1,13625.84,5,2,2,Potential loyal
+8155,8,1,26257.44,5,2,2,Potential loyal
+5155,3,1,23750.93,5,2,2,Potential loyal
+3386,3,1,18401.29,5,2,2,Potential loyal
+9246,3,1,27122.24,5,2,2,Potential loyal
+7067,4,1,18389.69,5,2,2,Potential loyal
+5812,4,1,27962.63,5,2,2,Potential loyal
+6810,4,1,19024.64,5,2,2,Potential loyal
+3179,4,1,19805.8,5,2,2,Potential loyal
+2950,7,1,26464.95,5,2,2,Potential loyal
+5748,3,1,13664.72,5,2,2,Potential loyal
+2602,3,1,15706.94,5,2,2,Potential loyal
+7451,0,1,23459.34,5,2,2,Potential loyal
+6221,3,1,24127.32,5,2,2,Potential loyal
+4718,5,1,1361.81,5,2,1,Potential loyal
+7218,0,1,747.98,5,2,1,Potential loyal
+8625,2,1,1094.76,5,2,1,Potential loyal
+3454,4,1,1152.6,5,2,1,Potential loyal
+4861,5,1,1293.84,5,2,1,Potential loyal
+304,6,1,1487.7,5,2,1,Potential loyal
+1515,7,1,1021.91,5,2,1,Potential loyal
+774,8,1,1319.32,5,2,1,Potential loyal
+7888,2,1,132874.9,5,1,5,High value
+2180,2,1,113627.88,5,1,5,High value
+6712,7,1,105807.97,5,1,5,High value
+7946,6,1,92003.78,5,1,5,High value
+7920,4,1,88676.33,5,1,5,High value
+1941,5,1,102112.65,5,1,5,High value
+5993,3,1,107915.31,5,1,5,High value
+6638,5,1,141800.88,5,1,5,High value
+6327,2,1,107210.5,5,1,5,High value
+8602,5,1,92432.77,5,1,5,High value
+3351,2,1,111858.7,5,1,5,High value
+9161,6,1,147113.09,5,1,5,High value
+4365,1,1,123869.48,5,1,5,High value
+1564,1,1,111629.5,5,1,5,High value
+4731,4,1,152729.9,5,1,5,High value
+2598,1,1,88905.37,5,1,5,High value
+829,4,1,137423.66,5,1,5,High value
+539,1,1,95336.55,5,1,5,High value
+4654,1,1,114702.73,5,1,5,High value
+4350,1,1,106528.45,5,1,5,High value
+1527,6,1,125929.08,5,1,5,High value
+7675,5,1,105598.59,5,1,5,High value
+1848,0,1,128935.47,5,1,5,High value
+9256,0,1,164655.9,5,1,5,High value
+7915,8,1,91326.05,5,1,5,High value
+6098,8,1,92135.06,5,1,5,High value
+4701,4,1,111644.76,5,1,5,High value
+9373,0,1,152761.47,5,1,5,High value
+2170,4,1,116555.96,5,1,5,High value
+1686,7,1,114087.72,5,1,5,High value
+9906,0,1,88315.49,5,1,5,High value
+8558,0,1,125299.07,5,1,5,High value
+7120,0,1,112884.34,5,1,5,High value
+3113,6,1,123027.87,5,1,5,High value
+7179,7,1,138979.13,5,1,5,High value
+6914,3,1,106462.53,5,1,5,High value
+8987,6,1,101570.11,5,1,5,High value
+846,5,1,121395.55,5,1,5,High value
+7901,6,1,99598.35,5,1,5,High value
+6646,3,1,113472.08,5,1,5,High value
+2489,2,1,84100.55,5,1,4,Promising
+1932,7,1,83279.65,5,1,4,Promising
+6741,6,1,86172.5,5,1,4,Promising
+8463,1,1,86449.89,5,1,4,Promising
+766,6,1,85312.57,5,1,4,Promising
+1053,1,1,13077.02,5,1,1,Promising
+523,6,1,7055.42,5,1,1,Promising
+775,5,1,6442.57,5,1,1,Promising
+8835,5,1,8011.66,5,1,1,Promising
+1747,5,1,6585.1,5,1,1,Promising
+8054,5,1,7868.11,5,1,1,Promising
+7887,7,1,11485.25,5,1,1,Promising
+1417,4,1,550.06,5,1,1,Promising
+8913,4,1,6839.77,5,1,1,Promising
+7154,4,1,9883.32,5,1,1,Promising
+5147,4,1,10107.47,5,1,1,Promising
+1401,4,1,9456.39,5,1,1,Promising
+7718,7,1,11725.34,5,1,1,Promising
+4242,3,1,6807.61,5,1,1,Promising
+857,3,1,8225.71,5,1,1,Promising
+1198,3,1,10888.75,5,1,1,Promising
+7486,3,1,421.56,5,1,1,Promising
+3014,2,1,394.1,5,1,1,Promising
+7954,7,1,6979.98,5,1,1,Promising
+9597,2,1,12619.75,5,1,1,Promising
+1606,2,1,8408.01,5,1,1,Promising
+8141,2,1,6727.25,5,1,1,Promising
+2022,8,1,13396.0,5,1,1,Promising
+8795,8,1,12977.87,5,1,1,Promising
+1512,1,1,10886.41,5,1,1,Promising
+4669,0,1,12706.85,5,1,1,Promising
+3538,0,1,9168.44,5,1,1,Promising
+8944,8,1,12000.54,5,1,1,Promising
+7156,8,1,11968.02,5,1,1,Promising
+5769,8,1,7911.8,5,1,1,Promising
+5469,0,1,10687.3,5,1,1,Promising
+6854,8,1,8574.31,5,1,1,Promising
+7554,8,1,10629.32,5,1,1,Promising
+3734,0,1,6934.89,5,1,1,Promising
+8292,0,1,7393.45,5,1,1,Promising
+1452,0,1,12815.19,5,1,1,Promising
+5488,6,1,8746.22,5,1,1,Promising
+4906,11,2,118582.96,4,5,5,High value
+3668,14,2,131074.81,4,5,5,High value
+8399,14,2,100114.8,4,5,5,High value
+1186,14,2,137002.41,4,5,5,High value
+6064,17,2,103791.64,4,5,5,High value
+3205,14,3,137924.68,4,5,5,High value
+1987,9,3,92180.74,4,5,5,High value
+4449,17,3,164407.86,4,5,5,High value
+2239,14,2,102736.37,4,5,5,High value
+2040,13,3,347468.82,4,5,5,High value
+7263,13,2,118628.63,4,5,5,High value
+5898,9,2,205094.64,4,5,5,High value
+3335,10,2,186594.29,4,5,5,High value
+2707,13,4,163070.5,4,5,5,High value
+1967,16,2,154563.42,4,5,5,High value
+5529,12,3,132542.36,4,5,5,High value
+614,9,2,109063.6,4,5,5,High value
+5096,16,3,150280.53,4,5,5,High value
+2781,12,2,97831.28,4,5,5,High value
+3180,12,2,150194.05,4,5,5,High value
+7491,12,2,104131.16,4,5,5,High value
+4083,10,4,174657.89,4,5,5,High value
+1879,12,3,181552.23,4,5,5,High value
+2805,16,2,118659.06,4,5,5,High value
+845,10,2,87418.43,4,5,5,High value
+3085,16,2,116730.33,4,5,5,High value
+6081,9,2,94521.75,4,5,5,High value
+4425,16,2,105915.69,4,5,5,High value
+5029,15,2,129674.15,4,5,5,High value
+4951,9,4,196399.45,4,5,5,High value
+1212,17,2,90433.24,4,5,5,High value
+8539,11,3,102107.67,4,5,5,High value
+5789,18,3,119578.45,4,5,5,High value
+3853,18,2,214870.94,4,5,5,High value
+808,15,2,280258.93,4,5,5,High value
+1911,17,3,141410.43,4,5,5,High value
+1262,15,3,177181.56,4,5,5,High value
+2301,10,4,233300.82,4,5,5,High value
+2569,11,2,93406.17,4,5,5,High value
+5378,10,2,130574.66,4,5,5,High value
+2525,16,3,106245.23,4,5,5,High value
+1945,10,4,167155.11,4,5,5,High value
+6082,11,4,142865.01,4,5,5,High value
+8214,14,2,59364.63,4,5,4,Loyal
+242,18,2,82537.3,4,5,4,Loyal
+4001,18,2,57212.42,4,5,4,Loyal
+291,17,3,85766.0,4,5,4,Loyal
+4160,17,2,74547.92,4,5,4,Loyal
+1998,16,2,56315.54,4,5,4,Loyal
+5612,16,2,65128.96,4,5,4,Loyal
+2717,16,2,70613.61,4,5,4,Loyal
+7524,15,2,72153.26,4,5,4,Loyal
+3618,9,2,81282.3,4,5,4,Loyal
+1380,15,2,67858.89,4,5,4,Loyal
+3576,15,2,63593.8,4,5,4,Loyal
+5317,10,2,68566.47,4,5,4,Loyal
+5069,9,2,80912.4,4,5,4,Loyal
+417,9,2,63211.53,4,5,4,Loyal
+136,15,3,74171.93,4,5,4,Loyal
+3583,9,2,76314.74,4,5,4,Loyal
+1760,14,2,53009.73,4,5,4,Loyal
+3829,11,3,81972.26,4,5,4,Loyal
+923,13,2,70284.6,4,5,4,Loyal
+167,12,2,54950.58,4,5,4,Loyal
+536,12,2,66544.84,4,5,4,Loyal
+6276,12,2,68345.4,4,5,4,Loyal
+4402,11,2,58444.38,4,5,4,Loyal
+296,11,2,79857.43,4,5,4,Loyal
+365,11,2,59115.97,4,5,4,Loyal
+3788,10,2,54931.21,4,5,4,Loyal
+6038,9,2,40498.95,4,5,3,Loyal
+1740,10,2,45538.12,4,5,3,Loyal
+4030,11,3,38938.67,4,5,3,Loyal
+1457,17,2,45718.9,4,5,3,Loyal
+3368,15,2,50777.94,4,5,3,Loyal
+4339,14,1,187003.84,4,4,5,High value
+2853,15,1,176329.36,4,4,5,High value
+7119,12,1,181160.43,4,4,5,High value
+1024,9,1,176947.06,4,4,5,High value
+7016,14,1,182545.62,4,4,5,High value
+6192,14,1,57809.2,4,4,4,Loyal
+5465,9,1,62064.0,4,4,4,Loyal
+7690,9,1,65294.12,4,4,4,Loyal
+1359,9,1,57774.01,4,4,4,Loyal
+7710,10,1,76875.5,4,4,4,Loyal
+4526,10,1,60075.31,4,4,4,Loyal
+5648,10,1,66051.37,4,4,4,Loyal
+1853,11,1,57455.72,4,4,4,Loyal
+701,11,1,71199.37,4,4,4,Loyal
+3565,11,1,70317.14,4,4,4,Loyal
+4919,12,1,70646.95,4,4,4,Loyal
+3541,13,1,75067.61,4,4,4,Loyal
+1817,13,1,74637.64,4,4,4,Loyal
+528,13,1,72954.42,4,4,4,Loyal
+2154,13,1,68317.88,4,4,4,Loyal
+3291,13,1,56285.05,4,4,4,Loyal
+2306,13,1,56043.25,4,4,4,Loyal
+678,13,1,54865.56,4,4,4,Loyal
+8081,14,1,78606.37,4,4,4,Loyal
+2926,14,1,69154.44,4,4,4,Loyal
+1295,14,1,69229.56,4,4,4,Loyal
+4587,14,1,69919.39,4,4,4,Loyal
+1541,14,1,60558.82,4,4,4,Loyal
+5362,14,1,57952.75,4,4,4,Loyal
+11,15,1,60071.71,4,4,4,Loyal
+5938,15,1,59725.72,4,4,4,Loyal
+2628,15,1,66012.17,4,4,4,Loyal
+6519,15,1,67210.84,4,4,4,Loyal
+1239,15,1,72550.92,4,4,4,Loyal
+5650,15,1,77119.62,4,4,4,Loyal
+3477,15,1,75704.17,4,4,4,Loyal
+702,15,1,72027.62,4,4,4,Loyal
+5156,16,1,63536.34,4,4,4,Loyal
+3977,16,1,62674.76,4,4,4,Loyal
+1972,16,1,70285.09,4,4,4,Loyal
+4277,16,1,58374.24,4,4,4,Loyal
+930,16,1,53056.05,4,4,4,Loyal
+7265,17,1,61387.56,4,4,4,Loyal
+853,17,1,67579.18,4,4,4,Loyal
+873,17,1,57940.83,4,4,4,Loyal
+1248,17,1,56923.23,4,4,4,Loyal
+1038,10,2,36541.41,4,4,3,Loyal
+830,17,2,34408.27,4,4,3,Loyal
+4914,17,2,33877.83,4,4,3,Loyal
+3123,10,2,24135.93,4,4,2,Loyal
+1071,13,2,26326.4,4,4,2,Loyal
+4619,15,2,24442.31,4,4,2,Loyal
+625,12,2,24992.46,4,4,2,Loyal
+356,12,2,23262.41,4,4,2,Loyal
+130,10,2,29171.09,4,4,2,Loyal
+5036,17,1,5589.36,4,4,1,Loyal
+5915,13,1,3732.7,4,4,1,Loyal
+4113,13,1,5552.32,4,4,1,Loyal
+5703,15,1,3646.26,4,4,1,Loyal
+7822,10,2,7201.93,4,4,1,Loyal
+2713,14,1,5488.13,4,4,1,Loyal
+5686,18,1,5605.86,4,4,1,Loyal
+219,11,1,4114.78,4,4,1,Loyal
+8317,13,1,3373.11,4,4,1,Loyal
+7539,10,1,5427.28,4,4,1,Loyal
+1875,15,1,4468.7,4,4,1,Loyal
+1413,14,1,5156.18,4,4,1,Loyal
+4705,11,1,280.11,4,4,1,Loyal
+3704,14,1,4317.74,4,4,1,Loyal
+4311,9,2,12043.55,4,4,1,Loyal
+5010,16,1,5453.96,4,4,1,Loyal
+3204,10,1,221677.95,4,3,5,High value
+7304,9,1,218197.47,4,3,5,High value
+5830,16,1,40815.16,4,3,3,Potential loyal
+5735,16,1,34221.37,4,3,3,Potential loyal
+4434,12,1,36186.67,4,3,3,Potential loyal
+3901,16,1,41678.9,4,3,3,Potential loyal
+7897,16,1,33997.91,4,3,3,Potential loyal
+6821,16,1,37697.58,4,3,3,Potential loyal
+2731,16,1,33180.7,4,3,3,Potential loyal
+6409,16,1,32688.05,4,3,3,Potential loyal
+3076,16,1,46263.79,4,3,3,Potential loyal
+4352,16,1,32527.0,4,3,3,Potential loyal
+3256,9,1,38024.17,4,3,3,Potential loyal
+7402,13,1,35580.92,4,3,3,Potential loyal
+8204,9,1,37496.19,4,3,3,Potential loyal
+4563,16,1,52802.51,4,3,3,Potential loyal
+922,11,1,38604.87,4,3,3,Potential loyal
+6656,9,1,42718.14,4,3,3,Potential loyal
+7232,9,1,33646.46,4,3,3,Potential loyal
+1523,15,1,41408.74,4,3,3,Potential loyal
+893,10,1,47662.37,4,3,3,Potential loyal
+1964,9,1,48897.79,4,3,3,Potential loyal
+6207,8,1,47659.58,4,3,3,Potential loyal
+3672,18,1,29869.55,4,3,3,Potential loyal
+34,18,1,33396.51,4,3,3,Potential loyal
+8157,8,1,44550.17,4,3,3,Potential loyal
+4549,17,1,40367.09,4,3,3,Potential loyal
+6307,11,1,38845.05,4,3,3,Potential loyal
+4369,10,1,31488.68,4,3,3,Potential loyal
+8440,10,1,31133.08,4,3,3,Potential loyal
+4728,8,1,34129.34,4,3,3,Potential loyal
+911,8,1,40939.88,4,3,3,Potential loyal
+8238,12,1,43722.48,4,3,3,Potential loyal
+5226,12,1,29785.48,4,3,3,Potential loyal
+3182,12,1,35424.8,4,3,3,Potential loyal
+7110,17,1,42398.88,4,3,3,Potential loyal
+3293,8,1,34955.61,4,3,3,Potential loyal
+8015,10,1,52288.69,4,3,3,Potential loyal
+3299,8,1,34978.46,4,3,3,Potential loyal
+1734,17,1,42958.99,4,3,3,Potential loyal
+7068,17,1,31094.89,4,3,3,Potential loyal
+6564,17,1,45500.75,4,3,3,Potential loyal
+2013,12,1,31191.9,4,3,3,Potential loyal
+476,12,1,52459.01,4,3,3,Potential loyal
+8936,9,1,30836.41,4,3,3,Potential loyal
+6143,17,1,32698.89,4,3,3,Potential loyal
+3837,16,1,35921.7,4,3,3,Potential loyal
+2094,16,1,36580.38,4,3,3,Potential loyal
+6330,14,1,48146.68,4,3,3,Potential loyal
+1616,15,1,43851.0,4,3,3,Potential loyal
+5002,14,1,31797.22,4,3,3,Potential loyal
+4920,15,1,41628.19,4,3,3,Potential loyal
+6326,9,1,31347.31,4,3,3,Potential loyal
+6413,14,1,31521.06,4,3,3,Potential loyal
+4419,14,1,41380.88,4,3,3,Potential loyal
+526,15,1,40137.97,4,3,3,Potential loyal
+4790,18,1,52318.29,4,3,3,Potential loyal
+2117,14,1,51888.32,4,3,3,Potential loyal
+4486,14,1,37903.99,4,3,3,Potential loyal
+2843,11,1,34824.91,4,3,3,Potential loyal
+1567,10,1,38470.32,4,3,3,Potential loyal
+8007,14,1,44920.52,4,3,3,Potential loyal
+145,9,1,34997.32,4,3,3,Potential loyal
+7447,10,1,31964.87,4,3,3,Potential loyal
+8359,14,1,30960.39,4,3,3,Potential loyal
+7860,14,1,32598.56,4,3,3,Potential loyal
+2782,15,1,31502.98,4,3,3,Potential loyal
+4054,11,1,32858.04,4,3,3,Potential loyal
+7365,13,1,45261.37,4,3,3,Potential loyal
+7682,13,1,44080.05,4,3,3,Potential loyal
+967,13,1,41407.16,4,3,3,Potential loyal
+7407,9,1,44407.86,4,3,3,Potential loyal
+3666,15,1,32649.17,4,3,3,Potential loyal
+5384,9,1,44793.33,4,3,3,Potential loyal
+5179,14,1,47456.32,4,3,3,Potential loyal
+4936,9,1,1948.74,4,3,1,Potential loyal
+6310,9,1,2534.48,4,3,1,Potential loyal
+7079,10,1,2535.31,4,3,1,Potential loyal
+5895,10,1,2995.16,4,3,1,Potential loyal
+1166,8,1,2415.7,4,3,1,Potential loyal
+2555,16,1,3132.77,4,3,1,Potential loyal
+4674,8,1,2721.7,4,3,1,Potential loyal
+5754,11,1,2036.32,4,3,1,Potential loyal
+8577,9,1,2882.87,4,3,1,Potential loyal
+4326,8,1,2381.4,4,3,1,Potential loyal
+7041,9,1,2318.91,4,3,1,Potential loyal
+6094,9,1,3162.1,4,3,1,Potential loyal
+1124,11,1,1825.66,4,3,1,Potential loyal
+3822,17,1,2329.3,4,3,1,Potential loyal
+430,8,1,2326.78,4,3,1,Potential loyal
+6050,11,1,2524.31,4,3,1,Potential loyal
+5519,14,1,2596.46,4,3,1,Potential loyal
+2856,17,1,3049.58,4,3,1,Potential loyal
+7042,14,1,241682.8,4,2,5,High value
+4090,12,1,15138.51,4,2,2,Potential loyal
+8427,12,1,15611.37,4,2,2,Potential loyal
+4811,16,1,25176.12,4,2,2,Potential loyal
+2246,16,1,24977.93,4,2,2,Potential loyal
+4243,9,1,24590.71,4,2,2,Potential loyal
+755,14,1,22428.75,4,2,2,Potential loyal
+7517,16,1,24429.58,4,2,2,Potential loyal
+7117,16,1,24245.49,4,2,2,Potential loyal
+4455,12,1,28449.74,4,2,2,Potential loyal
+8888,9,1,28511.26,4,2,2,Potential loyal
+5415,16,1,13851.87,4,2,2,Potential loyal
+6669,16,1,16381.98,4,2,2,Potential loyal
+1346,15,1,18068.89,4,2,2,Potential loyal
+7991,12,1,27689.17,4,2,2,Potential loyal
+856,16,1,23931.98,4,2,2,Potential loyal
+7220,13,1,21192.85,4,2,2,Potential loyal
+4721,18,1,25466.13,4,2,2,Potential loyal
+4689,14,1,20500.38,4,2,2,Potential loyal
+5638,15,1,29146.56,4,2,2,Potential loyal
+6023,10,1,16257.1,4,2,2,Potential loyal
+847,9,1,15299.62,4,2,2,Potential loyal
+5140,18,1,13565.03,4,2,2,Potential loyal
+8123,15,1,23193.84,4,2,2,Potential loyal
+943,11,1,24925.5,4,2,2,Potential loyal
+4410,18,1,13870.01,4,2,2,Potential loyal
+5950,11,1,14325.12,4,2,2,Potential loyal
+7017,10,1,21157.84,4,2,2,Potential loyal
+1357,18,1,13567.4,4,2,2,Potential loyal
+5723,15,1,15998.44,4,2,2,Potential loyal
+3994,15,1,16223.89,4,2,2,Potential loyal
+1959,9,1,22250.57,4,2,2,Potential loyal
+7771,18,1,17148.14,4,2,2,Potential loyal
+6044,10,1,14055.37,4,2,2,Potential loyal
+6701,18,1,17238.34,4,2,2,Potential loyal
+8175,15,1,16322.85,4,2,2,Potential loyal
+4038,17,1,27715.52,4,2,2,Potential loyal
+275,11,1,23732.46,4,2,2,Potential loyal
+5458,15,1,24020.51,4,2,2,Potential loyal
+65,17,1,14080.5,4,2,2,Potential loyal
+2822,15,1,16794.97,4,2,2,Potential loyal
+7358,13,1,15455.67,4,2,2,Potential loyal
+6007,11,1,19981.4,4,2,2,Potential loyal
+4041,9,1,26679.23,4,2,2,Potential loyal
+1658,15,1,14086.95,4,2,2,Potential loyal
+2897,12,1,14421.76,4,2,2,Potential loyal
+216,15,1,20041.45,4,2,2,Potential loyal
+3246,9,1,29590.46,4,2,2,Potential loyal
+1224,15,1,17158.65,4,2,2,Potential loyal
+53,15,1,22524.08,4,2,2,Potential loyal
+4127,12,1,21017.47,4,2,2,Potential loyal
+4763,12,1,22963.88,4,2,2,Potential loyal
+2438,17,1,26293.93,4,2,2,Potential loyal
+6047,15,1,25886.89,4,2,2,Potential loyal
+4910,13,1,18064.03,4,2,2,Potential loyal
+5340,15,1,20179.12,4,2,2,Potential loyal
+7442,13,1,27954.76,4,2,2,Potential loyal
+5188,10,1,18106.73,4,2,2,Potential loyal
+6054,13,1,19153.07,4,2,2,Potential loyal
+4983,16,1,19841.38,4,2,2,Potential loyal
+8573,12,1,28550.88,4,2,2,Potential loyal
+3557,11,1,15430.13,4,2,2,Potential loyal
+5589,10,1,16678.26,4,2,2,Potential loyal
+4267,10,1,25068.06,4,2,2,Potential loyal
+1070,11,1,20172.77,4,2,2,Potential loyal
+3933,12,1,23516.3,4,2,2,Potential loyal
+794,9,1,21845.87,4,2,2,Potential loyal
+7766,15,1,25187.94,4,2,2,Potential loyal
+2557,15,1,29500.93,4,2,2,Potential loyal
+7213,16,1,22148.81,4,2,2,Potential loyal
+8488,11,1,1161.32,4,2,1,Potential loyal
+5305,18,1,1331.66,4,2,1,Potential loyal
+6675,15,1,1026.18,4,2,1,Potential loyal
+5595,14,1,582.25,4,2,1,Potential loyal
+8147,9,1,107095.83,4,1,5,High value
+6051,14,1,95578.85,4,1,5,High value
+694,14,1,93604.83,4,1,5,High value
+4744,14,1,109120.68,4,1,5,High value
+4199,14,1,122775.07,4,1,5,High value
+596,15,1,135564.5,4,1,5,High value
+4762,14,1,99881.55,4,1,5,High value
+7009,14,1,92398.8,4,1,5,High value
+4905,9,1,133185.12,4,1,5,High value
+5511,15,1,97406.21,4,1,5,High value
+2311,9,1,91419.0,4,1,5,High value
+8390,11,1,112814.9,4,1,5,High value
+3800,16,1,156416.9,4,1,5,High value
+5916,9,1,133056.0,4,1,5,High value
+2011,12,1,144391.96,4,1,5,High value
+8540,12,1,99302.98,4,1,5,High value
+1598,12,1,91909.35,4,1,5,High value
+7862,17,1,89221.56,4,1,5,High value
+1249,10,1,86622.1,4,1,5,High value
+492,18,1,153915.22,4,1,5,High value
+4109,15,1,81824.05,4,1,4,Promising
+5026,9,1,82577.84,4,1,4,Promising
+7761,9,1,82127.48,4,1,4,Promising
+1877,9,1,86223.82,4,1,4,Promising
+277,11,1,84062.93,4,1,4,Promising
+4786,16,1,84728.35,4,1,4,Promising
+3140,11,1,83873.39,4,1,4,Promising
+6088,10,1,82341.53,4,1,4,Promising
+5042,11,1,81369.46,4,1,4,Promising
+8834,10,1,84001.77,4,1,4,Promising
+7689,18,1,86357.8,4,1,4,Promising
+2216,13,1,86335.86,4,1,4,Promising
+6397,10,1,85499.13,4,1,4,Promising
+2806,8,1,82416.02,4,1,4,Promising
+1317,16,1,85950.17,4,1,4,Promising
+5406,9,1,11143.07,4,1,1,Promising
+4551,12,1,10761.34,4,1,1,Promising
+7506,10,1,10425.78,4,1,1,Promising
+6597,17,1,13362.62,4,1,1,Promising
+133,11,1,13082.38,4,1,1,Promising
+6026,11,1,9961.4,4,1,1,Promising
+6668,18,1,8898.54,4,1,1,Promising
+4011,18,1,8063.06,4,1,1,Promising
+6537,15,1,11197.2,4,1,1,Promising
+5604,17,1,7921.46,4,1,1,Promising
+339,15,1,11405.64,4,1,1,Promising
+5941,14,1,11406.85,4,1,1,Promising
+7048,9,1,9970.13,4,1,1,Promising
+7162,11,1,13058.5,4,1,1,Promising
+7139,10,1,9298.95,4,1,1,Promising
+6906,18,1,10690.25,4,1,1,Promising
+5534,18,1,6920.87,4,1,1,Promising
+7699,14,1,9085.01,4,1,1,Promising
+4504,11,1,12996.39,4,1,1,Promising
+4107,10,1,9800.22,4,1,1,Promising
+4628,18,1,12366.89,4,1,1,Promising
+1034,13,1,12258.04,4,1,1,Promising
+1458,9,1,297.46,4,1,1,Promising
+1849,13,1,7377.1,4,1,1,Promising
+5228,9,1,6589.64,4,1,1,Promising
+3363,13,1,511.42,4,1,1,Promising
+3073,16,1,10164.46,4,1,1,Promising
+5492,11,1,9894.2,4,1,1,Promising
+2191,13,1,12623.03,4,1,1,Promising
+884,12,1,10538.83,4,1,1,Promising
+101,16,1,10204.22,4,1,1,Promising
+2913,12,1,6515.84,4,1,1,Promising
+2725,14,1,7782.75,4,1,1,Promising
+1771,17,1,444.68,4,1,1,Promising
+6726,10,1,7263.82,4,1,1,Promising
+4468,17,1,10864.36,4,1,1,Promising
+225,12,1,11624.87,4,1,1,Promising
+3733,13,1,12987.79,4,1,1,Promising
+695,13,1,11193.48,4,1,1,Promising
+509,11,1,12333.86,4,1,1,Promising
+6212,14,1,9561.42,4,1,1,Promising
+2730,12,1,13270.62,4,1,1,Promising
+7777,17,1,6491.57,4,1,1,Promising
+631,24,2,224576.66,3,5,5,High value
+4872,22,2,152994.48,3,5,5,High value
+1274,20,4,163674.29,3,5,5,High value
+507,20,2,147157.85,3,5,5,High value
+514,22,2,166367.53,3,5,5,High value
+5035,22,2,160582.15,3,5,5,High value
+4557,22,3,150018.18,3,5,5,High value
+4073,22,2,112561.89,3,5,5,High value
+1153,22,2,174179.0,3,5,5,High value
+1883,30,2,187279.61,3,5,5,High value
+1769,18,2,156373.08,3,5,5,High value
+2688,30,3,123546.11,3,5,5,High value
+408,30,3,101541.14,3,5,5,High value
+2579,29,2,88845.98,3,5,5,High value
+5467,29,2,132178.79,3,5,5,High value
+5951,29,3,207974.76,3,5,5,High value
+498,18,3,211251.09,3,5,5,High value
+1502,28,2,224249.63,3,5,5,High value
+1833,20,2,139527.02,3,5,5,High value
+1533,21,3,197141.51,3,5,5,High value
+5342,27,2,142402.4,3,5,5,High value
+5835,27,2,137116.59,3,5,5,High value
+4360,27,2,116651.96,3,5,5,High value
+771,27,3,130106.6,3,5,5,High value
+7140,21,2,114559.27,3,5,5,High value
+452,26,3,288711.88,3,5,5,High value
+2124,19,3,140085.01,3,5,5,High value
+2071,20,2,154757.31,3,5,5,High value
+6782,26,2,144336.1,3,5,5,High value
+6124,19,2,154788.86,3,5,5,High value
+4375,26,2,182078.82,3,5,5,High value
+1137,26,3,89826.25,3,5,5,High value
+2539,25,2,115696.2,3,5,5,High value
+4335,21,2,99320.28,3,5,5,High value
+3236,25,3,194168.11,3,5,5,High value
+6230,19,2,135971.93,3,5,5,High value
+3311,19,3,198111.64,3,5,5,High value
+4424,25,2,93620.17,3,5,5,High value
+5597,25,2,169012.96,3,5,5,High value
+6193,25,2,190786.75,3,5,5,High value
+2199,25,3,196764.65,3,5,5,High value
+5832,22,2,190727.15,3,5,5,High value
+685,19,2,181720.79,3,5,5,High value
+2513,23,2,146989.49,3,5,5,High value
+55,19,5,192512.18,3,5,5,High value
+6616,27,2,85910.87,3,5,4,Needing attention
+1375,27,2,78468.93,3,5,4,Needing attention
+3150,25,2,82382.77,3,5,4,Needing attention
+4984,25,2,67021.88,3,5,4,Needing attention
+64,29,3,83821.87,3,5,4,Needing attention
+413,25,2,65311.27,3,5,4,Needing attention
+3391,25,2,57475.14,3,5,4,Needing attention
+5417,22,2,68710.91,3,5,4,Needing attention
+1081,19,3,65020.46,3,5,4,Needing attention
+410,27,2,53525.4,3,5,4,Needing attention
+198,28,2,63924.56,3,5,4,Needing attention
+1815,19,2,84937.99,3,5,4,Needing attention
+4806,20,2,56967.9,3,5,4,Needing attention
+2169,22,2,81184.26,3,5,4,Needing attention
+1185,26,2,72947.56,3,5,4,Needing attention
+2143,26,2,56856.77,3,5,4,Needing attention
+3004,20,2,66452.72,3,5,4,Needing attention
+7207,19,2,75296.43,3,5,4,Needing attention
+6830,21,2,64849.38,3,5,4,Needing attention
+100,18,3,78063.99,3,5,4,Needing attention
+6401,26,2,73620.42,3,5,4,Needing attention
+1810,24,2,60280.27,3,5,4,Needing attention
+244,20,3,81197.45,3,5,4,Needing attention
+2316,26,2,66549.48,3,5,4,Needing attention
+1226,26,2,80074.26,3,5,4,Needing attention
+4993,21,3,80985.98,3,5,4,Needing attention
+5389,20,2,63495.8,3,5,4,Needing attention
+6005,21,2,67715.77,3,5,4,Needing attention
+2468,28,2,51216.38,3,5,3,Needing attention
+1106,27,2,44287.26,3,5,3,Needing attention
+5013,26,2,41406.3,3,5,3,Needing attention
+5262,21,2,50082.37,3,5,3,Needing attention
+3570,25,2,47134.24,3,5,3,Needing attention
+1222,30,2,50701.91,3,5,3,Needing attention
+5157,24,2,49247.93,3,5,3,Needing attention
+3602,25,2,42853.04,3,5,3,Needing attention
+3833,30,2,52864.12,3,5,3,Needing attention
+6387,20,2,41819.68,3,5,3,Needing attention
+1549,27,2,43543.28,3,5,3,Needing attention
+6318,25,2,51197.51,3,5,3,Needing attention
+1236,25,3,21674.52,3,5,2,Needing attention
+6551,22,3,12854.1,3,5,1,Needing attention
+2918,27,1,198736.36,3,4,5,High value
+5001,20,1,183959.45,3,4,5,High value
+844,27,1,63184.73,3,4,4,Needing attention
+5043,18,1,60581.44,3,4,4,Needing attention
+185,18,1,63895.98,3,4,4,Needing attention
+547,28,1,53056.44,3,4,4,Needing attention
+6487,18,1,72083.11,3,4,4,Needing attention
+3831,19,1,56604.48,3,4,4,Needing attention
+2924,27,1,66680.9,3,4,4,Needing attention
+5760,27,1,66701.74,3,4,4,Needing attention
+4393,22,1,63222.6,3,4,4,Needing attention
+1828,27,1,77420.72,3,4,4,Needing attention
+7474,19,1,64697.59,3,4,4,Needing attention
+4211,27,1,58929.81,3,4,4,Needing attention
+5225,27,1,54991.61,3,4,4,Needing attention
+6819,22,1,68168.67,3,4,4,Needing attention
+2066,20,1,58857.35,3,4,4,Needing attention
+3449,26,1,73091.6,3,4,4,Needing attention
+7005,19,1,62968.75,3,4,4,Needing attention
+3381,26,1,64072.44,3,4,4,Needing attention
+1923,26,1,52986.88,3,4,4,Needing attention
+3620,26,1,79161.82,3,4,4,Needing attention
+4271,26,1,76040.12,3,4,4,Needing attention
+6365,20,1,63142.41,3,4,4,Needing attention
+2366,20,1,56638.19,3,4,4,Needing attention
+5825,20,1,53763.42,3,4,4,Needing attention
+2570,20,1,61528.47,3,4,4,Needing attention
+4528,20,1,56409.88,3,4,4,Needing attention
+6611,25,1,56687.93,3,4,4,Needing attention
+4118,25,1,58407.45,3,4,4,Needing attention
+3378,25,1,59671.69,3,4,4,Needing attention
+6727,25,1,64812.15,3,4,4,Needing attention
+3957,25,1,77440.05,3,4,4,Needing attention
+2997,23,1,78262.04,3,4,4,Needing attention
+731,24,1,64497.55,3,4,4,Needing attention
+3913,24,1,78332.3,3,4,4,Needing attention
+7519,22,1,69329.4,3,4,4,Needing attention
+1981,22,1,62870.11,3,4,4,Needing attention
+723,24,1,70728.77,3,4,4,Needing attention
+5655,24,1,62566.96,3,4,4,Needing attention
+6787,19,1,56129.18,3,4,4,Needing attention
+500,23,1,58012.74,3,4,4,Needing attention
+2347,23,1,54662.9,3,4,4,Needing attention
+3880,20,1,63725.21,3,4,4,Needing attention
+119,29,1,54793.31,3,4,4,Needing attention
+7645,18,1,62950.49,3,4,4,Needing attention
+6072,21,1,53202.73,3,4,4,Needing attention
+2759,21,1,53167.02,3,4,4,Needing attention
+6117,20,1,66467.43,3,4,4,Needing attention
+1556,30,1,53561.5,3,4,4,Needing attention
+2291,29,1,74473.44,3,4,4,Needing attention
+6258,28,1,73957.68,3,4,4,Needing attention
+449,27,2,37425.68,3,4,3,Needing attention
+2380,18,2,32539.45,3,4,3,Needing attention
+817,21,2,32594.88,3,4,3,Needing attention
+236,28,2,37515.93,3,4,3,Needing attention
+6363,28,2,31094.66,3,4,3,Needing attention
+5318,22,2,15086.49,3,4,2,Needing attention
+4568,19,2,22820.83,3,4,2,Needing attention
+1701,26,2,16649.68,3,4,2,Needing attention
+2439,22,2,13588.1,3,4,2,Needing attention
+5252,19,1,4936.98,3,4,1,Needing attention
+6061,28,1,5923.08,3,4,1,Needing attention
+6356,25,1,5139.82,3,4,1,Needing attention
+6086,26,1,5551.17,3,4,1,Needing attention
+2981,19,1,4925.38,3,4,1,Needing attention
+4018,28,1,4480.35,3,4,1,Needing attention
+1025,23,2,8622.75,3,4,1,Needing attention
+6478,22,1,5458.81,3,4,1,Needing attention
+1513,27,1,4261.76,3,4,1,Needing attention
+3060,22,1,6343.08,3,4,1,Needing attention
+256,25,1,4739.5,3,4,1,Needing attention
+2224,20,1,5213.19,3,4,1,Needing attention
+1406,26,1,4922.05,3,4,1,Needing attention
+5829,29,1,5396.9,3,4,1,Needing attention
+3952,25,1,3883.39,3,4,1,Needing attention
+4276,25,1,6309.35,3,4,1,Needing attention
+4007,20,2,12874.98,3,4,1,Needing attention
+6177,27,1,3455.66,3,4,1,Needing attention
+4195,27,1,3534.47,3,4,1,Needing attention
+6560,23,1,4761.13,3,4,1,Needing attention
+5105,20,1,4721.41,3,4,1,Needing attention
+2566,23,1,5467.08,3,4,1,Needing attention
+1819,26,1,4518.2,3,4,1,Needing attention
+2432,22,1,212768.83,3,3,5,High value
+5202,24,1,40828.8,3,3,3,Needing attention
+1211,28,1,44834.31,3,3,3,Needing attention
+7975,18,1,35207.77,3,3,3,Needing attention
+5017,29,1,46319.59,3,3,3,Needing attention
+5757,19,1,30485.4,3,3,3,Needing attention
+4399,18,1,37562.09,3,3,3,Needing attention
+1602,26,1,34045.38,3,3,3,Needing attention
+5371,26,1,41858.9,3,3,3,Needing attention
+249,23,1,51928.19,3,3,3,Needing attention
+7033,18,1,45821.15,3,3,3,Needing attention
+997,30,1,47827.57,3,3,3,Needing attention
+1744,22,1,43884.92,3,3,3,Needing attention
+3984,19,1,32338.16,3,3,3,Needing attention
+5391,22,1,35190.47,3,3,3,Needing attention
+5295,26,1,40118.49,3,3,3,Needing attention
+1937,30,1,31607.19,3,3,3,Needing attention
+6541,30,1,43829.39,3,3,3,Needing attention
+4380,27,1,45797.79,3,3,3,Needing attention
+4260,22,1,45533.35,3,3,3,Needing attention
+3918,30,1,43368.12,3,3,3,Needing attention
+2590,19,1,43301.52,3,3,3,Needing attention
+6903,26,1,32759.76,3,3,3,Needing attention
+2789,27,1,52615.21,3,3,3,Needing attention
+5048,18,1,34456.63,3,3,3,Needing attention
+2382,25,1,33422.88,3,3,3,Needing attention
+5996,25,1,33728.24,3,3,3,Needing attention
+1991,25,1,40539.71,3,3,3,Needing attention
+4643,25,1,49522.73,3,3,3,Needing attention
+3876,30,1,52639.02,3,3,3,Needing attention
+2230,18,1,36172.51,3,3,3,Needing attention
+1472,29,1,45650.7,3,3,3,Needing attention
+4190,19,1,40878.69,3,3,3,Needing attention
+4840,28,1,40389.96,3,3,3,Needing attention
+3857,19,1,37645.25,3,3,3,Needing attention
+5698,23,1,38053.88,3,3,3,Needing attention
+1627,18,1,37858.52,3,3,3,Needing attention
+72,28,1,40361.06,3,3,3,Needing attention
+6455,20,1,30404.2,3,3,3,Needing attention
+6291,23,1,50130.87,3,3,3,Needing attention
+5617,24,1,33032.11,3,3,3,Needing attention
+892,18,1,44079.59,3,3,3,Needing attention
+4822,30,1,46880.0,3,3,3,Needing attention
+4317,21,1,50687.77,3,3,3,Needing attention
+5658,21,1,50755.02,3,3,3,Needing attention
+325,24,1,40072.77,3,3,3,Needing attention
+405,24,1,31325.08,3,3,3,Needing attention
+1897,24,1,38914.67,3,3,3,Needing attention
+2687,28,1,31475.26,3,3,3,Needing attention
+4903,24,1,36908.07,3,3,3,Needing attention
+2401,19,1,40832.91,3,3,3,Needing attention
+6183,22,1,31640.54,3,3,3,Needing attention
+2462,24,1,46821.02,3,3,3,Needing attention
+6186,19,1,34510.0,3,3,3,Needing attention
+5075,21,1,39727.76,3,3,3,Needing attention
+3871,30,1,36324.63,3,3,3,Needing attention
+4437,22,1,40843.83,3,3,3,Needing attention
+5209,30,1,40205.85,3,3,3,Needing attention
+3661,28,1,51414.71,3,3,3,Needing attention
+6229,18,1,45995.45,3,3,3,Needing attention
+3387,22,1,35125.4,3,3,3,Needing attention
+5586,21,1,1667.88,3,3,1,Needing attention
+4605,23,1,2962.18,3,3,1,Needing attention
+4774,27,1,1624.42,3,3,1,Needing attention
+81,28,1,2254.88,3,3,1,Needing attention
+1083,23,1,2686.74,3,3,1,Needing attention
+2698,26,1,2744.1,3,3,1,Needing attention
+7534,21,1,3269.47,3,3,1,Needing attention
+3273,25,1,235698.3,3,2,5,High value
+1096,24,1,19927.48,3,2,2,Slipping away
+941,30,1,17353.09,3,2,2,Slipping away
+4864,29,1,13445.64,3,2,2,Slipping away
+3027,29,1,23937.07,3,2,2,Slipping away
+954,29,1,24189.33,3,2,2,Slipping away
+1490,29,1,20349.29,3,2,2,Slipping away
+6731,29,1,17316.05,3,2,2,Slipping away
+4838,28,1,23198.5,3,2,2,Slipping away
+1679,28,1,23417.26,3,2,2,Slipping away
+6070,28,1,18137.84,3,2,2,Slipping away
+1886,28,1,14603.1,3,2,2,Slipping away
+6211,28,1,27042.33,3,2,2,Slipping away
+129,27,1,20205.72,3,2,2,Slipping away
+5651,27,1,14666.12,3,2,2,Slipping away
+6613,27,1,21042.51,3,2,2,Slipping away
+1072,27,1,20534.32,3,2,2,Slipping away
+114,26,1,17195.38,3,2,2,Slipping away
+3749,26,1,22444.7,3,2,2,Slipping away
+3881,26,1,26507.71,3,2,2,Slipping away
+6095,26,1,28098.22,3,2,2,Slipping away
+7089,26,1,16080.69,3,2,2,Slipping away
+2197,25,1,16789.81,3,2,2,Slipping away
+5335,25,1,17956.67,3,2,2,Slipping away
+371,25,1,18216.68,3,2,2,Slipping away
+1664,25,1,21601.58,3,2,2,Slipping away
+4940,25,1,29496.01,3,2,2,Slipping away
+2933,24,1,22055.26,3,2,2,Slipping away
+6599,24,1,28414.2,3,2,2,Slipping away
+2868,24,1,17647.49,3,2,2,Slipping away
+4943,24,1,17916.42,3,2,2,Slipping away
+4323,24,1,20182.67,3,2,2,Slipping away
+5368,24,1,22077.66,3,2,2,Slipping away
+6480,24,1,14207.11,3,2,2,Slipping away
+2285,24,1,20653.71,3,2,2,Slipping away
+2889,23,1,24446.52,3,2,2,Slipping away
+3166,23,1,17660.61,3,2,2,Slipping away
+382,23,1,18409.25,3,2,2,Slipping away
+4102,23,1,16300.95,3,2,2,Slipping away
+5230,23,1,13938.08,3,2,2,Slipping away
+6690,23,1,16235.54,3,2,2,Slipping away
+6654,22,1,16713.46,3,2,2,Slipping away
+6375,22,1,21367.74,3,2,2,Slipping away
+5878,22,1,28673.89,3,2,2,Slipping away
+2712,22,1,18258.09,3,2,2,Slipping away
+6099,22,1,26688.48,3,2,2,Slipping away
+6436,22,1,20992.11,3,2,2,Slipping away
+2508,21,1,17749.29,3,2,2,Slipping away
+6757,21,1,27622.72,3,2,2,Slipping away
+4229,21,1,27165.68,3,2,2,Slipping away
+4833,21,1,28084.58,3,2,2,Slipping away
+4481,21,1,28320.61,3,2,2,Slipping away
+4411,21,1,16940.53,3,2,2,Slipping away
+5554,21,1,24146.79,3,2,2,Slipping away
+3838,20,1,18751.47,3,2,2,Slipping away
+6534,20,1,17028.05,3,2,2,Slipping away
+6951,20,1,22143.92,3,2,2,Slipping away
+2941,20,1,14993.48,3,2,2,Slipping away
+7066,20,1,28632.78,3,2,2,Slipping away
+1699,20,1,15231.87,3,2,2,Slipping away
+687,19,1,21912.75,3,2,2,Slipping away
+3780,19,1,18890.04,3,2,2,Slipping away
+957,19,1,17994.76,3,2,2,Slipping away
+728,19,1,14504.48,3,2,2,Slipping away
+6507,19,1,21619.24,3,2,2,Slipping away
+5988,19,1,19080.06,3,2,2,Slipping away
+6666,18,1,15852.35,3,2,2,Slipping away
+2699,18,1,15776.76,3,2,2,Slipping away
+4165,18,1,23703.83,3,2,2,Slipping away
+7060,18,1,23428.21,3,2,2,Slipping away
+469,18,1,26015.32,3,2,2,Slipping away
+82,23,1,995.77,3,2,1,Slipping away
+5162,26,1,1288.64,3,2,1,Slipping away
+1644,22,1,885.81,3,2,1,Slipping away
+3875,21,1,1478.41,3,2,1,Slipping away
+6781,24,1,602.76,3,2,1,Slipping away
+6025,29,1,618.82,3,2,1,Slipping away
+2367,26,1,1327.02,3,2,1,Slipping away
+6294,25,1,1169.11,3,2,1,Slipping away
+1011,22,1,696.87,3,2,1,Slipping away
+848,25,1,1490.27,3,2,1,Slipping away
+1499,26,1,112075.27,3,1,5,High value
+4560,21,1,135325.29,3,1,5,High value
+5437,21,1,87169.69,3,1,5,High value
+603,28,1,149490.26,3,1,5,High value
+3322,21,1,134118.22,3,1,5,High value
+4189,22,1,127842.9,3,1,5,High value
+4753,21,1,103808.94,3,1,5,High value
+2741,29,1,91325.19,3,1,5,High value
+2373,23,1,114927.45,3,1,5,High value
+6458,25,1,86881.73,3,1,5,High value
+5449,20,1,94679.96,3,1,5,High value
+224,29,1,92396.8,3,1,5,High value
+1857,26,1,86789.72,3,1,5,High value
+1099,20,1,136036.27,3,1,5,High value
+5975,20,1,104551.13,3,1,5,High value
+4302,27,1,113642.39,3,1,5,High value
+4892,22,1,114217.1,3,1,5,High value
+2610,27,1,119109.17,3,1,5,High value
+5365,26,1,105706.75,3,1,5,High value
+2115,24,1,99659.89,3,1,5,High value
+5183,19,1,100438.42,3,1,5,High value
+5301,19,1,110218.07,3,1,5,High value
+2817,28,1,89822.68,3,1,5,High value
+2365,29,1,110662.67,3,1,5,High value
+1953,30,1,154284.63,3,1,5,High value
+4814,20,1,88815.25,3,1,5,High value
+3774,20,1,119307.87,3,1,5,High value
+6614,29,1,80128.76,3,1,4,Slipping away
+5062,29,1,80433.8,3,1,4,Slipping away
+3498,23,1,83399.73,3,1,4,Slipping away
+5804,28,1,81594.45,3,1,4,Slipping away
+7871,18,1,83445.64,3,1,4,Slipping away
+6222,19,1,311.44,3,1,1,Slipping away
+13,21,1,13259.48,3,1,1,Slipping away
+5476,21,1,8066.32,3,1,1,Slipping away
+3447,19,1,8156.89,3,1,1,Slipping away
+2738,22,1,12875.81,3,1,1,Slipping away
+3902,22,1,8511.3,3,1,1,Slipping away
+4556,21,1,9950.04,3,1,1,Slipping away
+2050,23,1,8493.61,3,1,1,Slipping away
+2991,20,1,11614.64,3,1,1,Slipping away
+932,23,1,11081.79,3,1,1,Slipping away
+6665,26,1,10093.8,3,1,1,Slipping away
+2973,22,1,9596.95,3,1,1,Slipping away
+5115,27,1,7527.73,3,1,1,Slipping away
+7096,20,1,12227.68,3,1,1,Slipping away
+5442,25,1,10812.9,3,1,1,Slipping away
+7458,22,1,8943.27,3,1,1,Slipping away
+5577,20,1,7557.84,3,1,1,Slipping away
+4161,24,1,9160.85,3,1,1,Slipping away
+783,23,1,8929.28,3,1,1,Slipping away
+4500,20,1,9353.79,3,1,1,Slipping away
+3082,19,1,12685.35,3,1,1,Slipping away
+7819,19,1,10103.52,3,1,1,Slipping away
+2135,27,1,8152.55,3,1,1,Slipping away
+2804,20,1,8470.88,3,1,1,Slipping away
+2831,30,1,10607.36,3,1,1,Slipping away
+7309,19,1,12951.98,3,1,1,Slipping away
+1737,27,1,10982.75,3,1,1,Slipping away
+5892,28,1,11273.07,3,1,1,Slipping away
+4901,28,1,9246.4,3,1,1,Slipping away
+3262,18,1,11315.86,3,1,1,Slipping away
+2128,28,1,7872.11,3,1,1,Slipping away
+5847,18,1,6513.73,3,1,1,Slipping away
+461,18,1,10033.03,3,1,1,Slipping away
+302,21,1,12605.73,3,1,1,Slipping away
+7393,18,1,7101.87,3,1,1,Slipping away
+3188,18,1,9098.91,3,1,1,Slipping away
+579,29,1,9055.29,3,1,1,Slipping away
+6069,29,1,12839.84,3,1,1,Slipping away
+406,18,1,11442.58,3,1,1,Slipping away
+3079,25,1,6909.48,3,1,1,Slipping away
+2145,38,2,176218.14,2,5,5,High value
+1190,38,2,187082.52,2,5,5,High value
+980,46,2,168041.81,2,5,5,High value
+3554,38,3,167345.64,2,5,5,High value
+1725,37,2,87417.69,2,5,5,High value
+1997,38,2,92615.98,2,5,5,High value
+4125,38,2,89487.42,2,5,5,High value
+5182,38,2,88095.71,2,5,5,High value
+4173,43,2,94200.65,2,5,5,High value
+201,43,2,95857.19,2,5,5,High value
+2334,42,2,210578.12,2,5,5,High value
+1093,45,2,103933.19,2,5,5,High value
+3908,31,2,109236.93,2,5,5,High value
+3464,32,2,152155.31,2,5,5,High value
+4066,45,3,201503.79,2,5,5,High value
+1395,41,2,166378.6,2,5,5,High value
+3350,32,2,100229.25,2,5,5,High value
+3940,47,2,119800.02,2,5,5,High value
+744,32,2,142501.31,2,5,5,High value
+5004,32,3,163089.96,2,5,5,High value
+5331,32,2,206508.46,2,5,5,High value
+3836,46,4,151413.76,2,5,5,High value
+2162,33,2,91532.41,2,5,5,High value
+4433,33,2,235717.36,2,5,5,High value
+1889,41,3,170256.08,2,5,5,High value
+5059,33,2,132346.94,2,5,5,High value
+819,33,4,131718.18,2,5,5,High value
+1143,44,2,150041.08,2,5,5,High value
+172,34,3,197942.63,2,5,5,High value
+1296,43,2,140863.62,2,5,5,High value
+2563,34,2,96400.74,2,5,5,High value
+2748,44,2,156998.98,2,5,5,High value
+688,40,2,167929.07,2,5,5,High value
+585,35,3,170239.82,2,5,5,High value
+357,35,3,100871.07,2,5,5,High value
+834,35,2,196274.17,2,5,5,High value
+850,39,3,93317.6,2,5,5,High value
+17,36,2,164247.17,2,5,5,High value
+5165,36,2,127088.68,2,5,5,High value
+833,36,3,144788.32,2,5,5,High value
+2402,38,3,79782.86,2,5,4,At risk
+3178,46,3,74851.51,2,5,4,At risk
+776,33,2,68559.37,2,5,4,At risk
+1956,42,2,82022.8,2,5,4,At risk
+3077,37,2,62034.34,2,5,4,At risk
+1102,40,2,74654.21,2,5,4,At risk
+708,36,2,58805.86,2,5,4,At risk
+199,32,2,71427.51,2,5,4,At risk
+3403,46,3,84991.83,2,5,4,At risk
+2879,46,2,54095.78,2,5,4,At risk
+1994,35,2,53564.69,2,5,4,At risk
+4356,31,3,58020.32,2,5,4,At risk
+285,32,3,82446.92,2,5,4,At risk
+107,44,2,62671.7,2,5,4,At risk
+3105,42,2,62445.07,2,5,4,At risk
+1908,34,2,71204.63,2,5,4,At risk
+1273,33,2,69204.68,2,5,4,At risk
+532,38,2,61834.01,2,5,4,At risk
+4397,34,2,78768.22,2,5,4,At risk
+3954,37,3,34375.05,2,5,3,At risk
+651,47,2,42964.11,2,5,3,At risk
+589,46,2,50325.04,2,5,3,At risk
+2261,35,2,39560.13,2,5,3,At risk
+713,47,3,34337.53,2,5,3,At risk
+392,34,2,46557.56,2,5,3,At risk
+4740,36,2,50719.1,2,5,3,At risk
+1355,34,2,43855.62,2,5,3,At risk
+1029,39,3,45941.39,2,5,3,At risk
+2479,40,2,41871.75,2,5,3,At risk
+2058,32,2,42728.39,2,5,3,At risk
+5119,31,2,43674.55,2,5,3,At risk
+2099,45,1,165815.97,2,4,5,High value
+362,45,2,110550.72,2,4,5,High value
+196,31,1,64554.65,2,4,4,At risk
+3367,32,1,70311.97,2,4,4,At risk
+2696,32,1,77237.47,2,4,4,At risk
+6306,32,1,60200.64,2,4,4,At risk
+2649,36,1,72553.36,2,4,4,At risk
+341,45,1,71252.99,2,4,4,At risk
+4810,32,1,66068.28,2,4,4,At risk
+3080,32,1,66410.7,2,4,4,At risk
+5395,36,1,61349.17,2,4,4,At risk
+383,39,1,54930.47,2,4,4,At risk
+2679,36,1,69763.76,2,4,4,At risk
+3173,44,1,74571.57,2,4,4,At risk
+4114,44,1,59916.09,2,4,4,At risk
+3136,39,1,64658.84,2,4,4,At risk
+5792,36,1,76619.97,2,4,4,At risk
+6006,33,1,56745.57,2,4,4,At risk
+6119,33,1,65212.37,2,4,4,At risk
+309,38,1,74456.17,2,4,4,At risk
+5320,38,1,73985.89,2,4,4,At risk
+4224,40,1,59106.25,2,4,4,At risk
+4036,40,1,58340.35,2,4,4,At risk
+305,33,1,72833.86,2,4,4,At risk
+3324,38,1,72180.75,2,4,4,At risk
+211,33,1,73358.7,2,4,4,At risk
+5893,34,1,60397.09,2,4,4,At risk
+4016,34,1,54570.34,2,4,4,At risk
+2836,34,1,62220.37,2,4,4,At risk
+4561,46,1,59158.13,2,4,4,At risk
+1860,34,1,68550.82,2,4,4,At risk
+3089,36,1,65675.01,2,4,4,At risk
+3480,34,1,78509.87,2,4,4,At risk
+2221,36,1,54913.98,2,4,4,At risk
+1116,34,1,58006.34,2,4,4,At risk
+2982,40,1,78302.63,2,4,4,At risk
+1167,37,1,68500.11,2,4,4,At risk
+1531,37,1,60417.28,2,4,4,At risk
+1727,46,1,60689.03,2,4,4,At risk
+4148,40,1,62195.44,2,4,4,At risk
+3487,35,1,58687.2,2,4,4,At risk
+2864,39,1,70990.58,2,4,4,At risk
+6415,30,1,76186.94,2,4,4,At risk
+4660,44,1,57514.32,2,4,4,At risk
+4836,43,1,61498.46,2,4,4,At risk
+2078,43,1,65614.75,2,4,4,At risk
+3248,43,1,53153.86,2,4,4,At risk
+74,43,1,77590.91,2,4,4,At risk
+3892,31,1,54807.86,2,4,4,At risk
+5110,44,1,53247.37,2,4,4,At risk
+2854,44,2,34571.93,2,4,3,At risk
+6150,34,2,31371.63,2,4,3,At risk
+3698,44,2,38121.85,2,4,3,At risk
+4550,46,2,35098.3,2,4,3,At risk
+1204,38,2,32692.96,2,4,3,At risk
+1335,38,2,36760.42,2,4,3,At risk
+319,42,2,35200.21,2,4,3,At risk
+2150,35,2,38125.75,2,4,3,At risk
+3927,41,2,37673.62,2,4,3,At risk
+3064,33,2,32995.58,2,4,3,At risk
+4312,43,2,25106.85,2,4,2,At risk
+2233,40,2,21750.75,2,4,2,At risk
+2791,44,2,22667.15,2,4,2,At risk
+635,46,2,16263.79,2,4,2,At risk
+2325,42,2,19035.32,2,4,2,At risk
+2617,30,2,28328.06,2,4,2,At risk
+231,35,2,17571.49,2,4,2,At risk
+3479,44,2,27361.4,2,4,2,At risk
+4818,46,2,23003.58,2,4,2,At risk
+1670,46,2,18521.14,2,4,2,At risk
+4567,37,2,24977.31,2,4,2,At risk
+936,34,2,25626.96,2,4,2,At risk
+3647,47,1,4925.43,2,4,1,At risk
+2686,43,1,4235.81,2,4,1,At risk
+4266,31,1,4012.02,2,4,1,At risk
+4316,40,1,4370.55,2,4,1,At risk
+900,39,1,5565.54,2,4,1,At risk
+1345,32,1,6287.76,2,4,1,At risk
+1597,44,1,4284.62,2,4,1,At risk
+1624,34,2,8269.32,2,4,1,At risk
+4948,41,1,5176.91,2,4,1,At risk
+2482,42,1,5498.95,2,4,1,At risk
+2376,35,1,5832.18,2,4,1,At risk
+1017,30,1,6269.33,2,4,1,At risk
+2604,44,1,5273.19,2,4,1,At risk
+640,44,1,4704.88,2,4,1,At risk
+2442,37,1,6333.26,2,4,1,At risk
+431,47,1,3622.74,2,4,1,At risk
+2390,39,1,5004.09,2,4,1,At risk
+79,43,1,209749.48,2,3,5,High value
+5012,43,1,43087.71,2,3,3,Needing attention
+2523,44,1,31182.07,2,3,3,Needing attention
+24,45,1,32222.83,2,3,3,Needing attention
+2963,47,1,30879.6,2,3,3,Needing attention
+1775,47,1,49229.79,2,3,3,Needing attention
+5552,31,1,52369.33,2,3,3,Needing attention
+5823,31,1,38747.35,2,3,3,Needing attention
+4972,31,1,51796.36,2,3,3,Needing attention
+1601,31,1,45744.06,2,3,3,Needing attention
+4531,31,1,35757.42,2,3,3,Needing attention
+2611,31,1,37290.97,2,3,3,Needing attention
+5502,31,1,41674.84,2,3,3,Needing attention
+3811,31,1,36536.12,2,3,3,Needing attention
+495,31,1,48309.69,2,3,3,Needing attention
+6275,31,1,37584.11,2,3,3,Needing attention
+4703,32,1,32252.47,2,3,3,Needing attention
+2881,47,1,31174.46,2,3,3,Needing attention
+4151,32,1,41797.51,2,3,3,Needing attention
+2743,33,1,34878.0,2,3,3,Needing attention
+2874,33,1,46609.38,2,3,3,Needing attention
+974,33,1,37112.67,2,3,3,Needing attention
+5962,33,1,32119.05,2,3,3,Needing attention
+4501,46,1,30605.12,2,3,3,Needing attention
+3389,33,1,32130.05,2,3,3,Needing attention
+3431,46,1,41082.7,2,3,3,Needing attention
+568,34,1,31117.75,2,3,3,Needing attention
+5216,34,1,31611.77,2,3,3,Needing attention
+5126,34,1,47837.34,2,3,3,Needing attention
+883,34,1,32066.37,2,3,3,Needing attention
+4450,34,1,34840.83,2,3,3,Needing attention
+2386,46,1,44770.34,2,3,3,Needing attention
+5635,35,1,46599.91,2,3,3,Needing attention
+664,36,1,40038.69,2,3,3,Needing attention
+823,36,1,39624.06,2,3,3,Needing attention
+2718,36,1,32135.41,2,3,3,Needing attention
+3814,37,1,34668.18,2,3,3,Needing attention
+1238,37,1,49374.22,2,3,3,Needing attention
+2984,37,1,41537.93,2,3,3,Needing attention
+3563,37,1,31680.0,2,3,3,Needing attention
+5811,37,1,40479.33,2,3,3,Needing attention
+5023,37,1,39374.97,2,3,3,Needing attention
+5426,37,1,46687.98,2,3,3,Needing attention
+2980,37,1,34600.06,2,3,3,Needing attention
+5479,38,1,33693.76,2,3,3,Needing attention
+5675,39,1,33382.36,2,3,3,Needing attention
+3895,39,1,32387.27,2,3,3,Needing attention
+4858,39,1,31889.2,2,3,3,Needing attention
+3960,39,1,49296.07,2,3,3,Needing attention
+3307,39,1,38259.6,2,3,3,Needing attention
+2260,40,1,32496.99,2,3,3,Needing attention
+3410,40,1,32441.91,2,3,3,Needing attention
+1884,40,1,46819.09,2,3,3,Needing attention
+1326,45,1,38586.95,2,3,3,Needing attention
+3773,41,1,31318.87,2,3,3,Needing attention
+4032,41,1,30860.37,2,3,3,Needing attention
+1559,42,1,41741.74,2,3,3,Needing attention
+228,42,1,36008.31,2,3,3,Needing attention
+2727,42,1,51544.71,2,3,3,Needing attention
+2265,42,1,45802.8,2,3,3,Needing attention
+959,42,1,42886.56,2,3,3,Needing attention
+1399,43,1,35476.39,2,3,3,Needing attention
+4187,43,1,31020.96,2,3,3,Needing attention
+265,43,1,33688.51,2,3,3,Needing attention
+1869,43,1,36721.78,2,3,3,Needing attention
+5239,36,1,3051.12,2,3,1,Needing attention
+2876,32,1,1897.9,2,3,1,Needing attention
+2724,46,1,2924.28,2,3,1,Needing attention
+3996,34,1,1959.06,2,3,1,Needing attention
+2968,31,1,3228.35,2,3,1,Needing attention
+824,43,1,1797.51,2,3,1,Needing attention
+2745,40,1,3068.35,2,3,1,Needing attention
+3000,36,1,1959.71,2,3,1,Needing attention
+2912,37,1,2489.51,2,3,1,Needing attention
+3735,42,1,2002.53,2,3,1,Needing attention
+5248,38,1,2773.44,2,3,1,Needing attention
+2272,41,1,1764.88,2,3,1,Needing attention
+3052,40,1,2263.83,2,3,1,Needing attention
+667,47,1,20465.17,2,2,2,Slipping away
+1986,40,1,23790.5,2,2,2,Slipping away
+316,40,1,16246.82,2,2,2,Slipping away
+4445,34,1,18747.88,2,2,2,Slipping away
+2345,40,1,15289.85,2,2,2,Slipping away
+3131,40,1,14360.48,2,2,2,Slipping away
+558,46,1,19096.15,2,2,2,Slipping away
+3459,33,1,24089.66,2,2,2,Slipping away
+3474,47,1,13552.7,2,2,2,Slipping away
+3211,40,1,15598.14,2,2,2,Slipping away
+4573,30,1,18316.74,2,2,2,Slipping away
+1821,41,1,24579.65,2,2,2,Slipping away
+3606,41,1,18401.77,2,2,2,Slipping away
+2764,33,1,16769.41,2,2,2,Slipping away
+1453,32,1,24054.8,2,2,2,Slipping away
+3453,32,1,28603.06,2,2,2,Slipping away
+3673,32,1,24548.91,2,2,2,Slipping away
+2689,43,1,22196.57,2,2,2,Slipping away
+2463,43,1,22879.55,2,2,2,Slipping away
+2309,41,1,14442.46,2,2,2,Slipping away
+3266,32,1,24143.11,2,2,2,Slipping away
+513,32,1,25946.33,2,2,2,Slipping away
+3820,30,1,28506.74,2,2,2,Slipping away
+3045,31,1,28685.58,2,2,2,Slipping away
+2762,44,1,15227.58,2,2,2,Slipping away
+6013,31,1,25191.86,2,2,2,Slipping away
+428,47,1,17065.74,2,2,2,Slipping away
+639,31,1,17318.1,2,2,2,Slipping away
+4126,31,1,15927.38,2,2,2,Slipping away
+159,31,1,27854.54,2,2,2,Slipping away
+3637,42,1,16692.15,2,2,2,Slipping away
+4241,45,1,25508.16,2,2,2,Slipping away
+2185,45,1,28022.46,2,2,2,Slipping away
+4451,39,1,23513.12,2,2,2,Slipping away
+1543,35,1,28243.52,2,2,2,Slipping away
+1327,35,1,21535.0,2,2,2,Slipping away
+5619,39,1,29672.03,2,2,2,Slipping away
+3914,39,1,17378.88,2,2,2,Slipping away
+549,35,1,15762.71,2,2,2,Slipping away
+6524,30,1,25530.95,2,2,2,Slipping away
+5954,35,1,19145.15,2,2,2,Slipping away
+2931,40,1,28188.28,2,2,2,Slipping away
+3729,35,1,21445.13,2,2,2,Slipping away
+4726,43,1,29081.4,2,2,2,Slipping away
+3757,35,1,19706.73,2,2,2,Slipping away
+3208,37,1,21132.38,2,2,2,Slipping away
+2894,37,1,24476.28,2,2,2,Slipping away
+3950,39,1,15723.48,2,2,2,Slipping away
+1829,36,1,22978.57,2,2,2,Slipping away
+924,42,1,14207.71,2,2,2,Slipping away
+425,30,1,20747.87,2,2,2,Slipping away
+810,39,1,25601.62,2,2,2,Slipping away
+379,42,1,15868.36,2,2,2,Slipping away
+4458,45,1,24124.83,2,2,2,Slipping away
+2434,42,1,21354.56,2,2,2,Slipping away
+2524,38,1,20151.71,2,2,2,Slipping away
+1010,38,1,21383.98,2,2,2,Slipping away
+746,38,1,26420.34,2,2,2,Slipping away
+398,38,1,19194.24,2,2,2,Slipping away
+3341,38,1,27418.2,2,2,2,Slipping away
+5272,37,1,27274.93,2,2,2,Slipping away
+3343,37,1,20355.42,2,2,2,Slipping away
+1419,37,1,15386.2,2,2,2,Slipping away
+1808,44,1,754.41,2,2,1,Slipping away
+2361,36,1,1353.23,2,2,1,Slipping away
+73,45,1,580.36,2,2,1,Slipping away
+1906,36,1,835.94,2,2,1,Slipping away
+5441,40,1,1026.71,2,2,1,Slipping away
+3886,35,1,722.46,2,2,1,Slipping away
+4367,43,1,889.14,2,2,1,Slipping away
+4459,45,1,90666.67,2,1,5,High value
+3198,30,1,122515.72,2,1,5,High value
+5766,30,1,93760.84,2,1,5,High value
+181,30,1,93505.34,2,1,5,High value
+4860,30,1,86778.8,2,1,5,High value
+4924,31,1,97779.98,2,1,5,High value
+6316,31,1,94036.21,2,1,5,High value
+727,32,1,119022.02,2,1,5,High value
+5277,33,1,122966.14,2,1,5,High value
+580,33,1,120359.48,2,1,5,High value
+4537,33,1,93261.33,2,1,5,High value
+4666,34,1,94643.24,2,1,5,High value
+2977,34,1,128767.82,2,1,5,High value
+5971,35,1,91442.79,2,1,5,High value
+2936,35,1,98361.64,2,1,5,High value
+3643,36,1,98560.68,2,1,5,High value
+5631,36,1,139251.78,2,1,5,High value
+1856,37,1,150521.52,2,1,5,High value
+5071,37,1,141980.51,2,1,5,High value
+2657,37,1,128081.73,2,1,5,High value
+183,38,1,116145.71,2,1,5,High value
+4307,38,1,95137.97,2,1,5,High value
+854,38,1,94277.06,2,1,5,High value
+1332,39,1,102240.57,2,1,5,High value
+3946,39,1,89546.68,2,1,5,High value
+2522,42,1,96042.62,2,1,5,High value
+993,43,1,130600.26,2,1,5,High value
+4673,43,1,147982.13,2,1,5,High value
+519,43,1,86946.97,2,1,5,High value
+3711,43,1,96327.94,2,1,5,High value
+4050,44,1,138463.44,2,1,5,High value
+455,44,1,95602.72,2,1,5,High value
+554,44,1,136215.7,2,1,5,High value
+4328,45,1,109691.08,2,1,5,High value
+2423,46,1,103594.93,2,1,5,High value
+193,46,1,101214.41,2,1,5,High value
+2054,46,1,95936.16,2,1,5,High value
+745,46,1,116051.98,2,1,5,High value
+552,44,1,86103.61,2,1,4,Slipping away
+4971,41,1,85646.02,2,1,4,Slipping away
+5727,37,1,82359.34,2,1,4,Slipping away
+118,42,1,80439.57,2,1,4,Slipping away
+4204,33,1,85956.5,2,1,4,Slipping away
+5970,33,1,86361.7,2,1,4,Slipping away
+1334,43,1,80575.89,2,1,4,Slipping away
+2339,38,1,80530.32,2,1,4,Slipping away
+719,36,1,85481.68,2,1,4,Slipping away
+592,34,1,82731.59,2,1,4,Slipping away
+4604,33,1,83263.47,2,1,4,Slipping away
+5738,31,1,85807.85,2,1,4,Slipping away
+4629,41,1,85212.33,2,1,4,Slipping away
+3174,30,1,84621.06,2,1,4,Slipping away
+6337,30,1,83739.21,2,1,4,Slipping away
+2702,46,1,12943.21,2,1,1,Slipping away
+3054,41,1,12370.66,2,1,1,Slipping away
+1862,46,1,11441.3,2,1,1,Slipping away
+546,41,1,12119.59,2,1,1,Slipping away
+2437,46,1,9168.69,2,1,1,Slipping away
+4281,44,1,6810.64,2,1,1,Slipping away
+4186,34,1,488.06,2,1,1,Slipping away
+5466,38,1,9524.29,2,1,1,Slipping away
+4601,46,1,6481.89,2,1,1,Slipping away
+5382,33,1,7923.64,2,1,1,Slipping away
+2184,47,1,8113.84,2,1,1,Slipping away
+5022,32,1,12399.46,2,1,1,Slipping away
+38,32,1,11457.93,2,1,1,Slipping away
+3440,32,1,11111.76,2,1,1,Slipping away
+1125,31,1,6427.82,2,1,1,Slipping away
+6228,31,1,6740.61,2,1,1,Slipping away
+3168,40,1,9259.65,2,1,1,Slipping away
+4106,45,1,7057.36,2,1,1,Slipping away
+4829,36,1,12621.64,2,1,1,Slipping away
+5543,38,1,13442.27,2,1,1,Slipping away
+5193,38,1,181.29,2,1,1,Slipping away
+3416,43,1,7103.59,2,1,1,Slipping away
+71,44,1,11793.9,2,1,1,Slipping away
+2840,42,1,12485.47,2,1,1,Slipping away
+1508,45,1,9845.91,2,1,1,Slipping away
+5212,38,1,11916.28,2,1,1,Slipping away
+4210,43,1,13164.07,2,1,1,Slipping away
+1532,38,1,12775.2,2,1,1,Slipping away
+3326,42,1,8477.13,2,1,1,Slipping away
+1400,39,1,12585.95,2,1,1,Slipping away
+5234,33,1,12920.14,2,1,1,Slipping away
+320,54,2,135036.41,1,5,5,High value
+1678,71,2,109677.46,1,5,5,High value
+2000,53,2,87593.07,1,5,5,High value
+393,53,2,90019.86,1,5,5,High value
+2453,53,2,103571.2,1,5,5,High value
+710,53,2,201799.15,1,5,5,High value
+2986,54,2,91748.22,1,5,5,High value
+276,54,2,100831.37,1,5,5,High value
+1287,74,4,269238.67,1,5,5,High value
+1723,72,3,281079.99,1,5,5,High value
+1682,72,2,95297.02,1,5,5,High value
+1244,60,2,92168.97,1,5,5,High value
+3003,63,2,93970.46,1,5,5,High value
+1609,63,3,266330.7,1,5,5,High value
+3476,59,4,155638.32,1,5,5,High value
+1530,47,3,126686.91,1,5,5,High value
+2444,59,2,250240.33,1,5,5,High value
+521,62,2,115762.77,1,5,5,High value
+2305,66,2,89320.53,1,5,5,High value
+537,59,2,131874.35,1,5,5,High value
+872,48,2,175626.33,1,5,5,High value
+157,66,2,144974.61,1,5,5,High value
+4080,48,2,98502.68,1,5,5,High value
+1237,58,2,193340.12,1,5,5,High value
+1206,58,2,124843.29,1,5,5,High value
+1629,62,2,131055.46,1,5,5,High value
+668,62,3,248092.66,1,5,5,High value
+1004,58,2,95856.02,1,5,5,High value
+102,86,2,109388.62,1,5,5,High value
+3301,50,2,170537.88,1,5,5,High value
+2244,68,2,181535.94,1,5,5,High value
+2152,68,2,173350.04,1,5,5,High value
+1339,57,2,120176.64,1,5,5,High value
+1132,50,2,88937.32,1,5,5,High value
+1617,50,2,93717.82,1,5,5,High value
+786,80,2,89549.63,1,5,5,High value
+3761,57,3,162087.15,1,5,5,High value
+87,57,2,94494.64,1,5,5,High value
+435,51,2,130518.92,1,5,5,High value
+270,51,2,102003.28,1,5,5,High value
+1910,70,2,203946.05,1,5,5,High value
+2069,51,3,121092.1,1,5,5,High value
+542,55,2,262299.73,1,5,5,High value
+373,76,2,140480.14,1,5,5,High value
+3065,52,2,89765.42,1,5,5,High value
+805,72,2,85600.17,1,5,4,At risk
+2626,52,2,54211.03,1,5,4,At risk
+1269,67,3,81201.6,1,5,4,At risk
+3499,55,2,56508.58,1,5,4,At risk
+463,59,2,53783.79,1,5,4,At risk
+144,65,2,54628.31,1,5,4,At risk
+3066,50,2,79380.5,1,5,4,At risk
+1207,52,3,61487.82,1,5,4,At risk
+3328,54,2,69503.7,1,5,4,At risk
+1283,71,2,63365.16,1,5,4,At risk
+871,69,2,78305.21,1,5,4,At risk
+161,53,2,78487.17,1,5,4,At risk
+3736,57,2,74963.69,1,5,4,At risk
+3,57,2,76466.97,1,5,4,At risk
+862,74,2,82925.22,1,5,4,At risk
+3126,54,2,75687.62,1,5,4,At risk
+1957,70,3,80734.42,1,5,4,At risk
+3397,53,2,71531.5,1,5,4,At risk
+899,52,2,65642.5,1,5,4,At risk
+1835,58,2,53003.15,1,5,4,At risk
+4222,49,2,54042.06,1,5,4,At risk
+315,61,2,60405.39,1,5,4,At risk
+2276,50,3,72976.04,1,5,4,At risk
+733,71,2,52340.35,1,5,3,At risk
+96,87,2,48450.31,1,5,3,At risk
+4044,50,2,45012.2,1,5,3,At risk
+1650,51,2,50896.13,1,5,3,At risk
+673,53,2,40374.9,1,5,3,At risk
+3337,53,3,36312.39,1,5,3,At risk
+3745,51,2,42165.42,1,5,3,At risk
+184,50,3,25502.18,1,5,2,At risk
+2225,57,1,62481.22,1,4,4,At risk
+1621,61,1,68791.51,1,4,4,At risk
+1666,61,1,68497.66,1,4,4,At risk
+1023,63,1,78637.88,1,4,4,At risk
+2337,63,1,68221.54,1,4,4,At risk
+565,63,1,64361.07,1,4,4,At risk
+875,82,1,63806.24,1,4,4,At risk
+754,82,1,66867.27,1,4,4,At risk
+795,47,1,63044.38,1,4,4,At risk
+483,83,1,68272.11,1,4,4,At risk
+278,83,1,70540.7,1,4,4,At risk
+47,81,1,63102.55,1,4,4,At risk
+2006,49,1,63683.03,1,4,4,At risk
+3746,49,1,59049.53,1,4,4,At risk
+182,87,1,61273.26,1,4,4,At risk
+905,78,1,68342.61,1,4,4,At risk
+4332,51,1,68080.52,1,4,4,At risk
+2052,51,1,63541.99,1,4,4,At risk
+2157,51,1,63346.72,1,4,4,At risk
+299,77,1,66533.09,1,4,4,At risk
+3748,52,1,74745.18,1,4,4,At risk
+1163,52,1,59180.35,1,4,4,At risk
+2122,52,1,63169.57,1,4,4,At risk
+3567,52,1,63845.47,1,4,4,At risk
+551,75,1,76689.77,1,4,4,At risk
+502,74,1,72557.99,1,4,4,At risk
+876,72,1,63914.71,1,4,4,At risk
+1450,54,1,58794.58,1,4,4,At risk
+590,54,1,72758.15,1,4,4,At risk
+3492,55,1,57547.87,1,4,4,At risk
+1772,70,1,76111.68,1,4,4,At risk
+995,70,1,58550.27,1,4,4,At risk
+1704,69,1,62162.98,1,4,4,At risk
+1169,68,1,74001.82,1,4,4,At risk
+307,67,1,58696.86,1,4,4,At risk
+2209,67,1,60625.19,1,4,4,At risk
+2393,58,1,75714.57,1,4,4,At risk
+1917,58,1,55999.52,1,4,4,At risk
+2797,59,1,73780.1,1,4,4,At risk
+544,65,1,77669.1,1,4,4,At risk
+3462,59,1,78281.33,1,4,4,At risk
+791,65,1,59728.81,1,4,4,At risk
+1870,65,1,59399.09,1,4,4,At risk
+2497,64,1,67474.06,1,4,4,At risk
+3276,61,1,62530.89,1,4,4,At risk
+646,68,2,38214.44,1,4,3,At risk
+2464,51,2,30003.16,1,4,3,At risk
+1035,73,2,36919.32,1,4,3,At risk
+2915,51,2,30085.61,1,4,3,At risk
+2574,52,2,27353.36,1,4,2,At risk
+1952,64,2,27000.18,1,4,2,At risk
+1947,48,2,25974.89,1,4,2,At risk
+4086,47,2,23017.12,1,4,2,At risk
+1048,71,2,25797.48,1,4,2,At risk
+1471,66,2,22949.36,1,4,2,At risk
+1062,58,2,19936.45,1,4,2,At risk
+3415,58,2,23794.6,1,4,2,At risk
+2333,58,2,24660.96,1,4,2,At risk
+2095,53,2,24591.51,1,4,2,At risk
+1726,63,2,15610.59,1,4,2,At risk
+1876,60,2,1547.87,1,4,1,At risk
+3724,57,2,3652.25,1,4,1,At risk
+2493,60,1,3570.16,1,4,1,At risk
+465,63,2,10858.47,1,4,1,At risk
+352,63,1,3696.24,1,4,1,At risk
+1689,69,1,5315.44,1,4,1,At risk
+2750,53,1,5236.88,1,4,1,At risk
+659,83,1,4707.19,1,4,1,At risk
+2491,54,1,6240.52,1,4,1,At risk
+2459,68,1,5103.04,1,4,1,At risk
+1021,66,2,11960.42,1,4,1,At risk
+1210,48,1,3351.17,1,4,1,At risk
+643,67,1,4870.36,1,4,1,At risk
+2229,60,1,6315.44,1,4,1,At risk
+927,81,1,5530.08,1,4,1,At risk
+173,78,1,6375.72,1,4,1,At risk
+2816,51,1,5227.07,1,4,1,At risk
+1285,61,1,5727.35,1,4,1,At risk
+3428,48,1,209350.13,1,3,5,High value
+620,85,1,46202.54,1,3,3,Needing attention
+2200,48,1,30077.9,1,3,3,Needing attention
+4612,48,1,30545.75,1,3,3,Needing attention
+2735,61,1,31285.19,1,3,3,Needing attention
+2675,66,1,41470.43,1,3,3,Needing attention
+250,66,1,40620.49,1,3,3,Needing attention
+3046,59,1,36556.79,1,3,3,Needing attention
+2739,48,1,42886.72,1,3,3,Needing attention
+1885,59,1,42092.69,1,3,3,Needing attention
+1638,59,1,35164.9,1,3,3,Needing attention
+3989,47,1,31793.45,1,3,3,Needing attention
+2079,59,1,50380.8,1,3,3,Needing attention
+2775,62,1,31927.96,1,3,3,Needing attention
+2673,65,1,50319.38,1,3,3,Needing attention
+1922,47,1,51152.69,1,3,3,Needing attention
+348,61,1,36452.23,1,3,3,Needing attention
+2650,65,1,52292.88,1,3,3,Needing attention
+1669,65,1,45716.14,1,3,3,Needing attention
+1341,73,1,51383.94,1,3,3,Needing attention
+3727,53,1,39932.76,1,3,3,Needing attention
+294,54,1,45220.14,1,3,3,Needing attention
+282,53,1,39121.42,1,3,3,Needing attention
+3251,53,1,44356.06,1,3,3,Needing attention
+772,53,1,33700.18,1,3,3,Needing attention
+407,60,1,38870.37,1,3,3,Needing attention
+1958,54,1,33453.78,1,3,3,Needing attention
+1888,53,1,32324.06,1,3,3,Needing attention
+3417,54,1,34210.54,1,3,3,Needing attention
+1563,75,1,42404.42,1,3,3,Needing attention
+1517,75,1,50826.61,1,3,3,Needing attention
+434,76,1,39142.76,1,3,3,Needing attention
+2695,54,1,35144.96,1,3,3,Needing attention
+347,54,1,34806.45,1,3,3,Needing attention
+2010,51,1,38031.46,1,3,3,Needing attention
+550,77,1,33342.27,1,3,3,Needing attention
+1673,55,1,47174.8,1,3,3,Needing attention
+2005,71,1,45776.43,1,3,3,Needing attention
+3591,51,1,30001.6,1,3,3,Needing attention
+3676,55,1,31775.08,1,3,3,Needing attention
+604,78,1,47994.31,1,3,3,Needing attention
+858,56,1,45644.35,1,3,3,Needing attention
+37,70,1,32234.2,1,3,3,Needing attention
+1270,70,1,40557.96,1,3,3,Needing attention
+978,69,1,36151.0,1,3,3,Needing attention
+497,79,1,48764.2,1,3,3,Needing attention
+1252,79,1,30472.97,1,3,3,Needing attention
+30,80,1,38011.85,1,3,3,Needing attention
+1164,80,1,52676.02,1,3,3,Needing attention
+155,64,1,37730.42,1,3,3,Needing attention
+925,80,1,43807.77,1,3,3,Needing attention
+239,68,1,38522.92,1,3,3,Needing attention
+31,81,1,34404.35,1,3,3,Needing attention
+1529,57,1,40298.0,1,3,3,Needing attention
+2447,50,1,50014.63,1,3,3,Needing attention
+3339,50,1,31301.7,1,3,3,Needing attention
+1765,64,1,52501.63,1,3,3,Needing attention
+459,68,1,47493.99,1,3,3,Needing attention
+1272,50,1,34530.54,1,3,3,Needing attention
+329,60,1,32619.54,1,3,3,Needing attention
+2460,67,1,42113.18,1,3,3,Needing attention
+15,86,1,37513.34,1,3,3,Needing attention
+2887,49,1,32224.78,1,3,3,Needing attention
+235,58,1,34677.5,1,3,3,Needing attention
+4062,49,1,29956.68,1,3,3,Needing attention
+1051,58,1,51941.37,1,3,3,Needing attention
+1030,62,1,52636.09,1,3,3,Needing attention
+1791,54,1,3137.58,1,3,1,Needing attention
+3512,47,1,2957.88,1,3,1,Needing attention
+91,48,1,2974.73,1,3,1,Needing attention
+331,48,1,2613.21,1,3,1,Needing attention
+2092,50,1,2329.52,1,3,1,Needing attention
+1221,51,1,3073.12,1,3,1,Needing attention
+2300,55,1,1831.63,1,3,1,Needing attention
+123,55,1,3323.08,1,3,1,Needing attention
+1217,57,1,2026.57,1,3,1,Needing attention
+2218,58,1,246.07,1,3,1,Needing attention
+716,58,1,1700.53,1,3,1,Needing attention
+345,58,1,2090.42,1,3,1,Needing attention
+1309,61,1,1748.25,1,3,1,Needing attention
+597,80,1,1750.22,1,3,1,Needing attention
+170,83,1,1739.04,1,3,1,Needing attention
+318,53,1,29058.6,1,2,2,Needing attention
+3362,56,1,16666.11,1,2,2,Needing attention
+1179,78,1,18083.92,1,2,2,Needing attention
+62,56,1,26678.9,1,2,2,Needing attention
+1688,64,1,22480.81,1,2,2,Needing attention
+2292,64,1,20621.1,1,2,2,Needing attention
+1826,70,1,28208.91,1,2,2,Needing attention
+426,78,1,20050.31,1,2,2,Needing attention
+1090,70,1,22835.52,1,2,2,Needing attention
+269,51,1,25326.36,1,2,2,Needing attention
+730,55,1,28456.07,1,2,2,Needing attention
+1433,77,1,24131.49,1,2,2,Needing attention
+855,71,1,17416.63,1,2,2,Needing attention
+1584,51,1,21148.2,1,2,2,Needing attention
+529,48,1,22463.86,1,2,2,Needing attention
+750,71,1,15118.42,1,2,2,Needing attention
+246,76,1,15268.14,1,2,2,Needing attention
+1349,72,1,28432.01,1,2,2,Needing attention
+3832,54,1,14326.28,1,2,2,Needing attention
+4043,54,1,28030.73,1,2,2,Needing attention
+2253,65,1,29308.24,1,2,2,Needing attention
+1328,54,1,17319.83,1,2,2,Needing attention
+2547,65,1,16824.8,1,2,2,Needing attention
+1344,73,1,16529.32,1,2,2,Needing attention
+26,90,1,15430.76,1,2,2,Needing attention
+1486,59,1,23205.6,1,2,2,Needing attention
+3119,53,1,24507.76,1,2,2,Needing attention
+1855,55,1,24470.59,1,2,2,Needing attention
+1614,74,1,14797.37,1,2,2,Needing attention
+891,53,1,27097.76,1,2,2,Needing attention
+1918,59,1,13517.28,1,2,2,Needing attention
+3546,49,1,19207.79,1,2,2,Needing attention
+3255,49,1,19368.87,1,2,2,Needing attention
+732,65,1,23888.38,1,2,2,Needing attention
+1068,81,1,18121.55,1,2,2,Needing attention
+816,61,1,19817.92,1,2,2,Needing attention
+1315,61,1,19237.93,1,2,2,Needing attention
+4191,50,1,20889.46,1,2,2,Needing attention
+591,66,1,17364.96,1,2,2,Needing attention
+1043,66,1,20569.86,1,2,2,Needing attention
+533,81,1,23131.12,1,2,2,Needing attention
+1196,66,1,19671.44,1,2,2,Needing attention
+556,66,1,25124.94,1,2,2,Needing attention
+835,59,1,27906.57,1,2,2,Needing attention
+252,50,1,28317.52,1,2,2,Needing attention
+851,83,1,29613.76,1,2,2,Needing attention
+607,50,1,23658.56,1,2,2,Needing attention
+481,67,1,14901.68,1,2,2,Needing attention
+681,82,1,20402.6,1,2,2,Needing attention
+751,67,1,25210.64,1,2,2,Needing attention
+422,80,1,16160.98,1,2,2,Needing attention
+2242,58,1,24569.85,1,2,2,Needing attention
+2136,49,1,21731.83,1,2,2,Needing attention
+949,79,1,14413.99,1,2,2,Needing attention
+2032,58,1,18295.43,1,2,2,Needing attention
+3247,58,1,17730.03,1,2,2,Needing attention
+92,79,1,29052.64,1,2,2,Needing attention
+2049,68,1,18896.61,1,2,2,Needing attention
+131,58,1,15869.5,1,2,2,Needing attention
+3352,57,1,15219.71,1,2,2,Needing attention
+2668,51,1,19864.01,1,2,2,Needing attention
+3069,57,1,23116.28,1,2,2,Needing attention
+292,79,1,23979.29,1,2,2,Needing attention
+394,57,1,13967.32,1,2,2,Needing attention
+486,79,1,20059.46,1,2,2,Needing attention
+3681,51,1,16621.15,1,2,2,Needing attention
+4059,48,1,25577.86,1,2,2,Needing attention
+1229,61,1,29527.31,1,2,2,Needing attention
+146,56,1,24540.95,1,2,2,Needing attention
+2106,61,1,26602.85,1,2,2,Needing attention
+1168,48,1,17260.96,1,2,2,Needing attention
+778,51,1,1449.33,1,2,1,Needing attention
+496,66,1,820.05,1,2,1,Needing attention
+2302,56,1,931.33,1,2,1,Needing attention
+1182,60,1,1187.96,1,2,1,Needing attention
+933,61,1,818.67,1,2,1,Needing attention
+2205,60,1,1058.7,1,2,1,Needing attention
+3413,49,1,1455.09,1,2,1,Needing attention
+3379,56,1,1013.85,1,2,1,Needing attention
+3489,59,1,844.26,1,2,1,Needing attention
+1378,62,1,109183.85,1,1,5,High value
+2867,61,1,103031.26,1,1,5,High value
+3347,60,1,141513.15,1,1,5,High value
+2784,60,1,92701.36,1,1,5,High value
+400,60,1,92144.65,1,1,5,High value
+2342,59,1,91352.78,1,1,5,High value
+93,66,1,119899.49,1,1,5,High value
+3092,58,1,139249.16,1,1,5,High value
+2322,58,1,320266.54,1,1,5,High value
+3313,57,1,120948.38,1,1,5,High value
+992,69,1,100207.85,1,1,5,High value
+2499,57,1,163751.17,1,1,5,High value
+501,69,1,91048.92,1,1,5,High value
+1189,69,1,103677.14,1,1,5,High value
+2034,70,1,89394.1,1,1,5,High value
+960,70,1,89014.86,1,1,5,High value
+178,55,1,94719.13,1,1,5,High value
+1659,71,1,102566.0,1,1,5,High value
+124,71,1,92581.52,1,1,5,High value
+593,54,1,91282.6,1,1,5,High value
+1000,54,1,86725.6,1,1,5,High value
+478,73,1,113421.49,1,1,5,High value
+972,73,1,109660.5,1,1,5,High value
+1232,74,1,96522.8,1,1,5,High value
+3442,53,1,102776.73,1,1,5,High value
+3007,53,1,87707.63,1,1,5,High value
+1668,52,1,154648.56,1,1,5,High value
+2749,52,1,162627.52,1,1,5,High value
+1794,51,1,93262.66,1,1,5,High value
+1268,79,1,86947.65,1,1,5,High value
+3929,51,1,109327.89,1,1,5,High value
+206,75,1,86424.62,1,1,4,Dormant
+2113,55,1,85397.54,1,1,4,Dormant
+1660,59,1,79576.5,1,1,4,Dormant
+749,55,1,81855.55,1,1,4,Dormant
+820,77,1,7813.11,1,1,1,Dormant
+297,77,1,7841.32,1,1,1,Dormant
+1127,63,1,13165.72,1,1,1,Dormant
+164,70,1,12779.25,1,1,1,Dormant
+328,70,1,11545.54,1,1,1,Dormant
+3786,51,1,12836.67,1,1,1,Dormant
+1535,70,1,7606.47,1,1,1,Dormant
+332,79,1,10104.29,1,1,1,Dormant
+2408,57,1,10798.3,1,1,1,Dormant
+1779,68,1,8745.19,1,1,1,Dormant
+1019,57,1,7061.58,1,1,1,Dormant
+877,68,1,12418.75,1,1,1,Dormant
+1800,62,1,8612.5,1,1,1,Dormant
+2255,68,1,6632.68,1,1,1,Dormant
+1282,58,1,13050.02,1,1,1,Dormant
+1589,63,1,8726.62,1,1,1,Dormant
+1681,58,1,10618.1,1,1,1,Dormant
+2445,67,1,12457.55,1,1,1,Dormant
+814,58,1,9924.71,1,1,1,Dormant
+3333,50,1,6627.46,1,1,1,Dormant
+913,58,1,6528.87,1,1,1,Dormant
+2348,66,1,8430.53,1,1,1,Dormant
+1977,65,1,10688.97,1,1,1,Dormant
+3210,50,1,9437.85,1,1,1,Dormant
+4288,49,1,6837.75,1,1,1,Dormant
+618,65,1,7375.9,1,1,1,Dormant
+1648,59,1,10076.9,1,1,1,Dormant
+675,59,1,7757.88,1,1,1,Dormant
+2914,63,1,11979.44,1,1,1,Dormant
+576,61,1,12599.44,1,1,1,Dormant
+2969,48,1,12146.99,1,1,1,Dormant
+3353,53,1,13076.5,1,1,1,Dormant
+1753,74,1,12065.28,1,1,1,Dormant
+2007,48,1,12360.62,1,1,1,Dormant
+2274,62,1,6491.49,1,1,1,Dormant
+1018,74,1,9792.24,1,1,1,Dormant
+3639,54,1,11652.91,1,1,1,Dormant
+2857,62,1,550.92,1,1,1,Dormant
+2996,62,1,10405.22,1,1,1,Dormant
+3730,52,1,10597.72,1,1,1,Dormant
+970,54,1,12392.92,1,1,1,Dormant
