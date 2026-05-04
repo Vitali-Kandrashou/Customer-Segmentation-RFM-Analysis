@@ -97,3 +97,8 @@ A key feature of this project is the **SQL-first approach**:
 * `/data/`: Processed CSV dataset.
 * `/img/`: Screenshots and visual assets.
 * `/sql/`: SQL scripts for data transformation.
+
+<br>
+
+**Project by: Vitali Kandrashou**  
+*Data Analyst | SQL & Python Specialist*
