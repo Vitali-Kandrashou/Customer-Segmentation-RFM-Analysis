@@ -1,102 +1,263 @@
-# 📊 Customer Segmentation Project | RFM Analysis
+# 📊 Customer Segmentation & RFM Analysis Dashboard
 
 <br>
 
-## 🔗 Project Resources
-* [**Live Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODMwOThkZGUtY2JjZC00ZWIwLWJkNjMtMzM0YTI2NDNmMjc5IiwidCI6IjY2ZmViZjA0LTBjNWMtNGYwMi1hMzA2LTM3OTFlYjIyNWNhNSJ9) 🚀
-* [**Power BI Desktop File (.pbix)**](./dashboard/RFM_Analysis_Dashboard.pbix)
-* [**SQL Data Transformation Script**](./sql/rfm_segmentation.sql)
-* [**Processed Dataset (CSV)**](./data/RFM_Analysis_Data.csv)
+## 📌 Project Overview
+
+This project focuses on customer behavior analysis using the RFM (Recency, Frequency, Monetary) segmentation methodology.  
+The goal was to build an end-to-end analytical solution that combines SQL-based data preparation with an interactive Power BI dashboard for customer lifecycle analysis and marketing operations.
+
+The project includes:
+- customer-level RFM segmentation in PostgreSQL
+- behavioral customer classification
+- interactive Power BI dashboards
+- operational customer export functionality for CRM and retention campaigns
 
 <br>
 
-## 📌 Business Case Overview
-The objective of this project is to analyze the transaction history of **2,000 customers** with a total revenue of **$107M**. By implementing **RFM Analysis** (Recency, Frequency, Monetary), I segmented the audience into distinct groups to help the marketing team move away from "one-size-fits-all" communication toward data-driven personalization.
+# 🎯 Business Goal
+
+The main objective of this project was to identify customer behavior patterns and segment customers based on purchasing activity.
+
+The solution helps businesses:
+- identify high-value customers
+- detect customers at churn risk
+- analyze customer lifecycle stages
+- support retention and reactivation campaigns
+- export customer lists for marketing operations
 
 <br>
 
-## 🖼 Dashboard Preview
-![RFM Dashboard Preview](img/RFM_dashboard_preview.png)
+# 🗂️ Dataset
+
+The analysis was performed on a multi-category e-commerce marketplace dataset.
+
+The dataset contains:
+- customer orders
+- payments
+- product information
+- order timestamps
+- order statuses
+
+Only delivered orders were included in the analysis.
 
 <br>
 
-## 📈 Key Business Insights (Data-Driven)
+# 🛠️ Tech Stack
 
-After analyzing the customer base, several critical business patterns were identified:
-
-1. **High-Value Concentration (Pareto Effect):**
-   * **Insight:** The **High Value** segment (17.82% of customers) generates **43.75% ($47M)** of total revenue. 
-   * **Risk:** The business is highly dependent on a small group. A loss of even 5% of these customers would result in a ~$2.3M revenue drop.
-
-2. **The "Silent" Majority (Needing Attention):**
-   * **Insight:** The largest group of customers is **Needing Attention (21.91%)**. 
-   * **Opportunity:** This segment has high historical value but is beginning to lapse. They are the primary source for "quick wins" in revenue growth.
-
-3. **Churn Exposure:**
-   * **Insight:** Over **$16M** of revenue is tied to **At Risk** and **Slipping Away** segments.
-   * **Observation:** The average monetary value of an "At Risk" customer remains high, meaning these were once valuable clients that the business failed to retain.
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
 
 <br>
 
-## 🔍 Scoring Legend & Model Validation
-The scoring system ranks customers from **1 (Lowest)** to **5 (Highest)** for each metric. Validation shows clear behavioral differentiation:
+# ⚙️ Data Preparation
 
-| Score | Recency (Avg. days since last purchase) | Frequency (Avg. number of orders) | Monetary (Avg. Customer Value) |
-| :--- | :--- | :--- | :--- |
-| **5** | **3.7 days** (Active) | **2.3 orders** (Frequent) | **$137K** (Top Spender) |
-| **4** | **13.0 days** | **1.2 orders** | **$69K** |
-| **3** | **24.0 days** (Stable) | **1.0 order** (Occasional) | **$40K** (Average) |
-| **2** | **38.0 days** | **1.0 order** | **$21K** |
-| **1** | **62.0 days** (Inactive) | **1.0 order** (Single-timer) | **$7K** (Low Value) |
+Customer-level metrics were calculated in PostgreSQL using Common Table Expressions (CTEs), aggregations, and window functions.
 
-<br>
-
-## 💡 Strategic Business Recommendations
-
-### 🚀 1. VIP & High Value: "The Platinum Treatment"
-* **Target:** RFM Scores 555, 455.
-* **Strategy:** Implement a loyalty program with personal concierge services and exclusive "First Look" access to new products.
-* **Goal:** Maximize retention and LTV (Lifetime Value).
-
-### 🔄 2. Needing Attention: "The Reactivation Push"
-* **Target:** High historical spenders with declining Recency.
-* **Strategy:** Deploy limited-time offers (48-hour discounts) or personalized "We Miss You" bundles.
-* **Goal:** Re-activate before they migrate to "At Risk" status.
-
-### 🛠 3. Potential Loyal: "The Habit Builder"
-* **Target:** High Recency but Mid Frequency.
-* **Action:** Offer incentives for the 2nd and 3rd purchases (e.g., "Buy 3, Get 1 Free").
-* **Goal:** Increase purchase frequency and move them into the "Loyal" segment.
-
-### 🛑 4. At Risk: "The Win-Back Survey"
-* **Target:** Customers who haven't purchased in >40 days.
-* **Action:** Send a satisfaction survey with a high-value discount (30%+) to understand churn reasons.
-* **Goal:** Final attempt at retention for high-Monetary clients.
+Main preparation steps:
+1. Aggregate customer purchase history
+2. Calculate RFM metrics
+3. Assign RFM scores
+4. Generate customer segments
+5. Build a final analytical view for Power BI
 
 <br>
 
-## 🛠 Tech Stack Details
-* **SQL:** Advanced data manipulation using **`NTILE()` window functions** to rank customers and group data into logical segments.
-* **Power BI:** Built a dynamic UI with cross-filtering and custom visual layouts.
-* **DAX:** Developed measures for **% Share of Sales**, **Average Value vs Score**, and **RFM Index**.
+# 🧠 RFM Methodology
+
+Customers were segmented using three behavioral dimensions:
+
+| Metric | Description |
+|---|---|
+| Recency | Days since last purchase |
+| Frequency | Number of completed orders |
+| Monetary | Total customer revenue |
 
 <br>
 
-## ⚙️ Data Pipeline & Methodology
-A key feature of this project is the **SQL-first approach**:
-1. **Engine:** All heavy data lifting, including Recency, Frequency, and Monetary calculations, was performed using **SQL**.
-2. **Logic:** I used Window Functions (`NTILE`) to ensure that scoring logic is centralized and easily scalable.
-3. **Power BI Role:** The BI tool was used exclusively for **UI/UX and storytelling**. It imports a pre-calculated, clean dataset, which ensures high performance and consistency of metrics.
+## 📈 Scoring Logic
 
-*This approach demonstrates my ability to handle large datasets where performing complex calculations directly in the BI tool would be inefficient.*
+### 🔹 Recency Score
+Calculated using `NTILE(5)` based on recency values.
+
+### 🔹 Frequency Score
+Frequency scoring was customized to better fit the dataset distribution:
+
+| Orders | F Score |
+|---|---|
+| 1 order | 1 |
+| 2 orders | 3 |
+| 3+ orders | 5 |
+
+### 🔹 Monetary Score
+Calculated using `NTILE(5)` based on customer revenue.
 
 <br>
 
-## 📂 Project Structure
-* `/dashboard/`: Power BI report file (`.pbix`).
-* `/data/`: Processed CSV dataset.
-* `/img/`: Screenshots and visual assets.
-* `/sql/`: SQL scripts for data transformation.
+# 👥 Customer Segments
+
+Customers were grouped into behavioral segments based on R and F scores.
+
+| Segment | Description |
+|---|---|
+| Champions | Most valuable and active customers |
+| Loyal Customers | Frequent repeat customers |
+| Potential Loyalists | Customers with strong retention potential |
+| New Customers | Recently acquired customers |
+| Promising | New customers with moderate activity |
+| Needs Attention | Customers showing reduced engagement |
+| About to Sleep | Customers becoming inactive |
+| At Risk | Previously active customers with declining activity |
+| Can't Lose Them | High-value customers at churn risk |
+| Hibernating | Low activity and low engagement customers |
+
+<br>
+
+# 🧱 SQL Pipeline
+
+The final analytical dataset was created as a PostgreSQL view:
+
+```sql
+CREATE OR REPLACE VIEW public.v_rfm_segmentation AS
+```
+
+The pipeline performs:
+- customer aggregation
+- RFM metric calculation
+- score assignment
+- segment classification
+
+The final view was connected directly to Power BI for visualization.
+
+<br>
+
+# 📊 Dashboard Overview
+
+The Power BI solution consists of two pages:
+
+<br>
+
+## 🟩 1. Customer Segmentation Dashboard
+
+Main analytical dashboard containing:
+- KPI cards
+- Customer Lifecycle Matrix
+- Revenue distribution by segment
+- Revenue share analysis
+- Segment performance summary
+
+### 📌 Key KPIs
+- Total Customers
+- Total Revenue
+- Average Customer Value
+- Average Orders per Customer
+
+### 📌 Customer Lifecycle Matrix
+The matrix visualizes customer distribution across Recency and Frequency dimensions and highlights behavioral customer groups.
+
+![Overview Dashboard](img/rfm-overview-dashboard.png)
+
+<br>
+
+## 🟦 2. Customer Export List
+
+Operational dashboard designed for CRM and retention workflows.
+
+Features:
+- interactive filtering
+- customer-level segmentation
+- export-ready customer lists
+- revenue prioritization
+
+This page allows marketing teams to identify and export target customers for campaigns and retention activities.
+
+![Customer Export List](img/rfm-customer-export-page.png)
+
+<br>
+
+# 🔍 Key Insights
+
+## 1️⃣ Hibernating Customers Represent the Largest Segment
+A significant share of customers belong to the Hibernating segment, indicating weak long-term retention and customer inactivity.
+
+## 2️⃣ Champions Generate High Customer Value
+Although Champions represent a relatively small percentage of customers, they generate exceptionally high average customer value.
+
+## 3️⃣ At Risk Customers Require Immediate Attention
+The At Risk segment contributes a meaningful share of total revenue, making retention campaigns strategically important.
+
+## 4️⃣ Potential Loyalists Represent Growth Opportunities
+Customers in the Potential Loyalists segment show strong potential for long-term retention and loyalty development.
+
+<br>
+
+# 💡 Business Recommendations
+
+## 📣 Retention Campaigns
+Launch reactivation campaigns targeting:
+- At Risk
+- About to Sleep
+- Hibernating customers
+
+Possible actions:
+- personalized discounts
+- reminder emails
+- limited-time offers
+
+<br>
+
+## 🌟 VIP & Loyalty Programs
+Create loyalty initiatives for:
+- Champions
+- Loyal Customers
+
+Possible actions:
+- exclusive offers
+- early product access
+- premium support
+
+<br>
+
+## 🚀 Growth Opportunities
+Focus retention efforts on:
+- Potential Loyalists
+- New Customers
+
+Goal:
+- convert early engagement into repeat purchases
+
+<br>
+
+# 🗃️ Project Structure
+
+```text
+rfm-customer-segmentation/
+│
+├── sql/
+│   └── rfm_segmentation.sql
+│
+├── dashboard/
+│   ├── rfm_dashboard.pbix
+│   └── screenshots/
+│       ├── overview-dashboard.png
+│       └── customer-export-page.png
+│
+└── README.md
+```
+
+<br>
+
+# ✅ Conclusion
+
+This project demonstrates a complete customer analytics workflow:
+- SQL data preparation
+- behavioral customer segmentation
+- Power BI dashboard development
+- operational customer targeting
+
+The final solution combines analytical reporting with actionable business workflows and can be used to support retention, CRM, and marketing strategies.
 
 <br>
 
