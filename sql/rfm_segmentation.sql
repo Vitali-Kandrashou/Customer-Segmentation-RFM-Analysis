@@ -1,3 +1,5 @@
+CREATE OR REPLACE VIEW public.v_rfm_segmentation AS
+
 WITH    
 user_metrics AS (    
     SELECT
@@ -24,6 +26,7 @@ max_date AS (
 rfm_raw AS (        
     SELECT
         um.customer_id,
+        um.last_order_date,
         md.max_date - um.last_order_date AS recency,
         um.orders_count AS frequency,
         um.revenue AS monetary
@@ -32,29 +35,37 @@ rfm_raw AS (
     CROSS JOIN max_date AS md
 ),
 
+
 rfm_score AS (
-    SELECT
-        *,
-        NTILE(5) OVER (ORDER BY recency DESC) AS r_score,
-        NTILE(5) OVER (ORDER BY frequency ASC) AS f_score,
-        NTILE(5) OVER (ORDER BY monetary ASC) AS m_score
-    FROM
-        rfm_raw
+	SELECT 
+		*,
+		NTILE(5) OVER (ORDER BY recency DESC) r_score,
+		
+		CASE
+			WHEN frequency = 1 THEN 1
+			WHEN frequency = 2 THEN 3
+			ELSE 5
+		END AS f_score,
+		
+		NTILE(5) OVER (ORDER BY monetary ASC) AS m_score
+	FROM 
+		rfm_raw
 )
 
-SELECT
-    *,
-    CASE
-        WHEN r_score = 5 AND f_score = 5 AND m_score = 5 THEN 'VIP'
-        WHEN m_score = 5 THEN 'High value'
-        WHEN r_score >= 4 AND f_score >= 4 THEN 'Loyal'
-        WHEN r_score >= 4 AND f_score >= 2 THEN 'Potential loyal'
-        WHEN r_score >= 4 AND f_score = 1 THEN 'Promising'
-        WHEN r_score <= 2 AND f_score >= 4 THEN 'At risk'
-        WHEN r_score BETWEEN 2 AND 3 AND f_score <= 2 THEN 'Slipping away'
-        WHEN r_score = 1 AND f_score = 1 THEN 'Dormant'
-        ELSE 'Needing attention'
-    END AS customer_segment
-FROM
-    rfm_score
-ORDER BY r_score DESC, f_score DESC, m_score DESC;
+SELECT 
+	*,
+	CONCAT(r_score, f_score, m_score) AS rfm_index,
+	CASE
+		WHEN r_score = 5 AND f_score IN (4, 5) THEN 'Champions'
+		WHEN r_score IN (4, 5) AND f_score IN (2, 3) THEN 'Potential Loyalists'
+		WHEN r_score = 5 AND f_score = 1 THEN 'New Customers'
+		WHEN r_score = 4 AND f_score = 1 THEN 'Promising'
+		WHEN r_score IN (3, 4) AND f_score IN (4, 5) THEN 'Loyal Customers'
+		WHEN r_score = 3 AND f_score = 3 THEN 'Needs Attention'
+		WHEN r_score = 3 AND f_score IN (1, 2) THEN 'About to Sleep'
+		WHEN r_score IN (1, 2) AND f_score = 5 THEN 'Can''t Lose Them'
+		WHEN r_score IN (1, 2) AND f_score IN (3, 4) THEN 'At Risk'
+		WHEN r_score IN (1, 2) AND f_score IN (1, 2) THEN 'Hibernating'
+	END AS segment
+FROM 
+	rfm_score
