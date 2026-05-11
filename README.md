@@ -1,5 +1,8 @@
 # 📊 Customer Segmentation & RFM Analysis Dashboard
 
+📎 **Interactive Dashboard:**  
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmRhZjI0YmItNTAyOC00ZGZlLWEzMzQtNTIwODg3MWU4NTM2IiwidCI6IjY2ZmViZjA0LTBjNWMtNGYwMi1hMzA2LTM3OTFlYjIyNWNhNSJ9)
+
 <br>
 
 ## 📌 Project Overview
@@ -15,7 +18,7 @@ The project includes:
 
 <br>
 
-# 🎯 Business Goal
+## 🎯 Business Goal
 
 The main objective of this project was to identify customer behavior patterns and segment customers based on purchasing activity.
 
@@ -28,7 +31,7 @@ The solution helps businesses:
 
 <br>
 
-# 🗂️ Dataset
+## 🗂️ Dataset
 
 The analysis was performed on a multi-category e-commerce marketplace dataset.
 
@@ -43,7 +46,7 @@ Only delivered orders were included in the analysis.
 
 <br>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - PostgreSQL
 - SQL
@@ -52,7 +55,7 @@ Only delivered orders were included in the analysis.
 
 <br>
 
-# ⚙️ Data Preparation
+## ⚙️ Data Preparation
 
 Customer-level metrics were calculated in PostgreSQL using Common Table Expressions (CTEs), aggregations, and window functions.
 
@@ -65,7 +68,7 @@ Main preparation steps:
 
 <br>
 
-# 🧠 RFM Methodology
+## 🧠 RFM Methodology
 
 Customers were segmented using three behavioral dimensions:
 
@@ -96,7 +99,7 @@ Calculated using `NTILE(5)` based on customer revenue.
 
 <br>
 
-# 👥 Customer Segments
+## 👥 Customer Segments
 
 Customers were grouped into behavioral segments based on R and F scores.
 
@@ -115,7 +118,7 @@ Customers were grouped into behavioral segments based on R and F scores.
 
 <br>
 
-# 🧱 SQL Pipeline
+## 🧱 SQL Pipeline
 
 The final analytical dataset was created as a PostgreSQL view:
 
@@ -133,13 +136,13 @@ The final view was connected directly to Power BI for visualization.
 
 <br>
 
-# 📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 The Power BI solution consists of two pages:
 
 <br>
 
-## 🟩 1. Customer Segmentation Dashboard
+### 🟩 1. Customer Segmentation Dashboard
 
 Main analytical dashboard containing:
 - KPI cards
@@ -148,20 +151,21 @@ Main analytical dashboard containing:
 - Revenue share analysis
 - Segment performance summary
 
-### 📌 Key KPIs
+#### 📌 Key KPIs
 - Total Customers
 - Total Revenue
 - Average Customer Value
 - Average Orders per Customer
 
-### 📌 Customer Lifecycle Matrix
+#### 📌 Customer Lifecycle Matrix
 The matrix visualizes customer distribution across Recency and Frequency dimensions and highlights behavioral customer groups.
 
 ![Overview Dashboard](img/rfm-overview-dashboard.png)
 
 <br>
+<br>
 
-## 🟦 2. Customer Export List
+### 🟦 2. Customer Export List
 
 Operational dashboard designed for CRM and retention workflows.
 
@@ -177,25 +181,25 @@ This page allows marketing teams to identify and export target customers for cam
 
 <br>
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 
-## 1️⃣ Hibernating Customers Represent the Largest Segment
+### 1️⃣ Hibernating Customers Represent the Largest Segment
 A significant share of customers belong to the Hibernating segment, indicating weak long-term retention and customer inactivity.
 
-## 2️⃣ Champions Generate High Customer Value
+### 2️⃣ Champions Generate High Customer Value
 Although Champions represent a relatively small percentage of customers, they generate exceptionally high average customer value.
 
-## 3️⃣ At Risk Customers Require Immediate Attention
+### 3️⃣ At Risk Customers Require Immediate Attention
 The At Risk segment contributes a meaningful share of total revenue, making retention campaigns strategically important.
 
-## 4️⃣ Potential Loyalists Represent Growth Opportunities
+### 4️⃣ Potential Loyalists Represent Growth Opportunities
 Customers in the Potential Loyalists segment show strong potential for long-term retention and loyalty development.
 
 <br>
 
-# 💡 Business Recommendations
+## 💡 Business Recommendations
 
-## 📣 Retention Campaigns
+### 📣 Retention Campaigns
 Launch reactivation campaigns targeting:
 - At Risk
 - About to Sleep
@@ -208,7 +212,7 @@ Possible actions:
 
 <br>
 
-## 🌟 VIP & Loyalty Programs
+### 🌟 VIP & Loyalty Programs
 Create loyalty initiatives for:
 - Champions
 - Loyal Customers
@@ -220,7 +224,7 @@ Possible actions:
 
 <br>
 
-## 🚀 Growth Opportunities
+### 🚀 Growth Opportunities
 Focus retention efforts on:
 - Potential Loyalists
 - New Customers
@@ -230,26 +234,27 @@ Goal:
 
 <br>
 
-# 🗃️ Project Structure
+## 🗃️ Project Structure
 
 ```text
-rfm-customer-segmentation/
+Customer-Segmentation-RFM-Analysis/
 │
 ├── sql/
 │   └── rfm_segmentation.sql
 │
 ├── dashboard/
-│   ├── rfm_dashboard.pbix
-│   └── screenshots/
-│       ├── overview-dashboard.png
-│       └── customer-export-page.png
+│   └── rfm_dashboard.pbix
+│ 
+├── img/
+│   ├── orfm-overview-dashboard.png
+│   └── rfm-customer-export-page.png
 │
 └── README.md
 ```
 
 <br>
 
-# ✅ Conclusion
+## ✅ Conclusion
 
 This project demonstrates a complete customer analytics workflow:
 - SQL data preparation
